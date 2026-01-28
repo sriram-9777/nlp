@@ -1,0 +1,1351 @@
+District,Soil_Type,Rainfall_mm,Crop,Season,Area_ha,Production_tonnes,Yield_tpha,Year
+Anantapur,Red Soil,905,Rice,Kharif,28016,122990,4.39,2015
+Anantapur,Red Soil,1116,Maize,Rabi,83838,399907,4.77,2015
+Anantapur,Red Soil,1005,Groundnut,Kharif,145220,262848,1.81,2015
+Anantapur,Red Soil,1076,Cotton,Kharif,138003,324307,2.35,2015
+Anantapur,Red Soil,553,Millets,Kharif,56095,99288,1.77,2015
+Anantapur,Red Soil,723,Pulses,Rabi,41160,59270,1.44,2015
+Anantapur,Red Soil,991,Tomato,Rabi,40818,1089840,26.7,2015
+Anantapur,Red Soil,1175,Chilli,Rabi,74712,288388,3.86,2015
+Anantapur,Red Soil,875,Sugarcane,Annual,147966,12072545,81.59,2015
+Chittoor,Red Soil,576,Rice,Kharif,15924,81371,5.11,2015
+Chittoor,Red Soil,657,Maize,Rabi,8585,33138,3.86,2015
+Chittoor,Red Soil,1199,Groundnut,Kharif,77231,125114,1.62,2015
+Chittoor,Red Soil,639,Cotton,Kharif,124778,315688,2.53,2015
+Chittoor,Red Soil,1165,Millets,Kharif,33323,58981,1.77,2015
+Chittoor,Red Soil,1100,Pulses,Rabi,12013,18980,1.58,2015
+Chittoor,Red Soil,810,Tomato,Rabi,13522,437571,32.36,2015
+Chittoor,Red Soil,1096,Chilli,Rabi,69929,217479,3.11,2015
+Chittoor,Red Soil,920,Sugarcane,Annual,30779,2395529,77.83,2015
+Guntur,Clay Loam,715,Rice,Kharif,37138,176405,4.75,2015
+Guntur,Clay Loam,1008,Maize,Rabi,36936,176184,4.77,2015
+Guntur,Clay Loam,643,Groundnut,Kharif,128684,232918,1.81,2015
+Guntur,Clay Loam,777,Cotton,Kharif,70359,168861,2.4,2015
+Guntur,Clay Loam,721,Millets,Kharif,32424,39557,1.22,2015
+Guntur,Clay Loam,646,Pulses,Rabi,51844,78284,1.51,2015
+Guntur,Clay Loam,1126,Tomato,Rabi,37620,1101513,29.28,2015
+Guntur,Clay Loam,903,Chilli,Rabi,75065,259724,3.46,2015
+Guntur,Clay Loam,954,Sugarcane,Annual,44033,4101673,93.15,2015
+Krishna,Clay Loam,826,Rice,Kharif,31318,131535,4.2,2015
+Krishna,Clay Loam,789,Maize,Rabi,144305,627726,4.35,2015
+Krishna,Clay Loam,819,Groundnut,Kharif,65536,123207,1.88,2015
+Krishna,Clay Loam,872,Cotton,Kharif,99167,224117,2.26,2015
+Krishna,Clay Loam,821,Millets,Kharif,46199,72532,1.57,2015
+Krishna,Clay Loam,508,Pulses,Rabi,76641,85837,1.12,2015
+Krishna,Clay Loam,890,Tomato,Rabi,5247,178817,34.08,2015
+Krishna,Clay Loam,943,Chilli,Rabi,70114,175986,2.51,2015
+Krishna,Clay Loam,1055,Sugarcane,Annual,103383,8401936,81.27,2015
+East Godavari,Clay Soil,957,Rice,Kharif,75448,341779,4.53,2015
+East Godavari,Clay Soil,825,Maize,Rabi,12774,59271,4.64,2015
+East Godavari,Clay Soil,551,Groundnut,Kharif,118704,187552,1.58,2015
+East Godavari,Clay Soil,870,Cotton,Kharif,123218,223024,1.81,2015
+East Godavari,Clay Soil,878,Millets,Kharif,34255,58576,1.71,2015
+East Godavari,Clay Soil,519,Pulses,Rabi,105038,142851,1.36,2015
+East Godavari,Clay Soil,523,Tomato,Rabi,59966,1539926,25.68,2015
+East Godavari,Clay Soil,608,Chilli,Rabi,146845,556542,3.79,2015
+East Godavari,Clay Soil,862,Sugarcane,Annual,63752,4606082,72.25,2015
+West Godavari,Clay Soil,1043,Rice,Kharif,146353,731765,5.0,2015
+West Godavari,Clay Soil,507,Maize,Rabi,29580,140800,4.76,2015
+West Godavari,Clay Soil,983,Groundnut,Kharif,118693,224329,1.89,2015
+West Godavari,Clay Soil,1085,Cotton,Kharif,6262,13087,2.09,2015
+West Godavari,Clay Soil,885,Millets,Kharif,14462,24296,1.68,2015
+West Godavari,Clay Soil,751,Pulses,Rabi,60042,76253,1.27,2015
+West Godavari,Clay Soil,568,Tomato,Rabi,8744,292574,33.46,2015
+West Godavari,Clay Soil,1009,Chilli,Rabi,82115,215962,2.63,2015
+West Godavari,Clay Soil,894,Sugarcane,Annual,96386,6962924,72.24,2015
+Prakasam,Red Soil,1147,Rice,Kharif,21205,96906,4.57,2015
+Prakasam,Red Soil,1098,Maize,Rabi,76899,373729,4.86,2015
+Prakasam,Red Soil,1179,Groundnut,Kharif,119305,212362,1.78,2015
+Prakasam,Red Soil,691,Cotton,Kharif,110604,211253,1.91,2015
+Prakasam,Red Soil,833,Millets,Kharif,118678,185137,1.56,2015
+Prakasam,Red Soil,651,Pulses,Rabi,52955,72548,1.37,2015
+Prakasam,Red Soil,768,Tomato,Rabi,13416,415359,30.96,2015
+Prakasam,Red Soil,715,Chilli,Rabi,19240,64261,3.34,2015
+Prakasam,Red Soil,905,Sugarcane,Annual,138513,12042320,86.94,2015
+Kadapa,Red Soil,1165,Rice,Kharif,92136,468972,5.09,2015
+Kadapa,Red Soil,869,Maize,Rabi,141768,584084,4.12,2015
+Kadapa,Red Soil,905,Groundnut,Kharif,65429,125623,1.92,2015
+Kadapa,Red Soil,935,Cotton,Kharif,53254,131004,2.46,2015
+Kadapa,Red Soil,839,Millets,Kharif,82496,122094,1.48,2015
+Kadapa,Red Soil,1019,Pulses,Rabi,32512,45841,1.41,2015
+Kadapa,Red Soil,757,Tomato,Rabi,66127,2059856,31.15,2015
+Kadapa,Red Soil,792,Chilli,Rabi,133196,360961,2.71,2015
+Kadapa,Red Soil,1050,Sugarcane,Annual,62611,5725775,91.45,2015
+Nellore,Sandy Soil,929,Rice,Kharif,24386,101445,4.16,2015
+Nellore,Sandy Soil,560,Maize,Rabi,126350,548359,4.34,2015
+Nellore,Sandy Soil,942,Groundnut,Kharif,58587,101355,1.73,2015
+Nellore,Sandy Soil,967,Cotton,Kharif,47300,96018,2.03,2015
+Nellore,Sandy Soil,1092,Millets,Kharif,25442,38926,1.53,2015
+Nellore,Sandy Soil,660,Pulses,Rabi,108270,109352,1.01,2015
+Nellore,Sandy Soil,1153,Tomato,Rabi,134184,3514278,26.19,2015
+Nellore,Sandy Soil,1043,Chilli,Rabi,144543,543481,3.76,2015
+Nellore,Sandy Soil,900,Sugarcane,Annual,126248,11629965,92.12,2015
+Visakhapatnam,Laterite Soil,597,Rice,Kharif,62614,266735,4.26,2015
+Visakhapatnam,Laterite Soil,643,Maize,Rabi,43793,200134,4.57,2015
+Visakhapatnam,Laterite Soil,964,Groundnut,Kharif,12421,22978,1.85,2015
+Visakhapatnam,Laterite Soil,628,Cotton,Kharif,86204,205165,2.38,2015
+Visakhapatnam,Laterite Soil,1040,Millets,Kharif,50938,90160,1.77,2015
+Visakhapatnam,Laterite Soil,1159,Pulses,Rabi,136826,202502,1.48,2015
+Visakhapatnam,Laterite Soil,1193,Tomato,Rabi,37768,802192,21.24,2015
+Visakhapatnam,Laterite Soil,750,Chilli,Rabi,115325,407097,3.53,2015
+Visakhapatnam,Laterite Soil,601,Sugarcane,Annual,59899,4555318,76.05,2015
+Vizianagaram,Red Loam,834,Rice,Kharif,131188,652004,4.97,2015
+Vizianagaram,Red Loam,743,Maize,Rabi,37660,183404,4.87,2015
+Vizianagaram,Red Loam,1099,Groundnut,Kharif,139255,250659,1.8,2015
+Vizianagaram,Red Loam,502,Cotton,Kharif,106392,192569,1.81,2015
+Vizianagaram,Red Loam,601,Millets,Kharif,40660,56110,1.38,2015
+Vizianagaram,Red Loam,1139,Pulses,Rabi,89129,127454,1.43,2015
+Vizianagaram,Red Loam,858,Tomato,Rabi,101937,2364938,23.2,2015
+Vizianagaram,Red Loam,611,Chilli,Rabi,13192,36937,2.8,2015
+Vizianagaram,Red Loam,997,Sugarcane,Annual,140769,11871049,84.33,2015
+Srikakulam,Red Loam,1105,Rice,Kharif,86179,351610,4.08,2015
+Srikakulam,Red Loam,837,Maize,Rabi,40841,165406,4.05,2015
+Srikakulam,Red Loam,688,Groundnut,Kharif,107481,156922,1.46,2015
+Srikakulam,Red Loam,1176,Cotton,Kharif,21862,53343,2.44,2015
+Srikakulam,Red Loam,955,Millets,Kharif,119537,191259,1.6,2015
+Srikakulam,Red Loam,952,Pulses,Rabi,104715,159166,1.52,2015
+Srikakulam,Red Loam,866,Tomato,Rabi,143023,2911948,20.36,2015
+Srikakulam,Red Loam,771,Chilli,Rabi,129592,467827,3.61,2015
+Srikakulam,Red Loam,680,Sugarcane,Annual,141663,11015714,77.76,2015
+Kurnool,Black Soil,589,Rice,Kharif,108485,484927,4.47,2015
+Kurnool,Black Soil,1154,Maize,Rabi,70609,276787,3.92,2015
+Kurnool,Black Soil,768,Groundnut,Kharif,78925,153114,1.94,2015
+Kurnool,Black Soil,1014,Cotton,Kharif,105472,288993,2.74,2015
+Kurnool,Black Soil,753,Millets,Kharif,76105,111874,1.47,2015
+Kurnool,Black Soil,969,Pulses,Rabi,83134,96435,1.16,2015
+Kurnool,Black Soil,1003,Tomato,Rabi,10532,270883,25.72,2015
+Kurnool,Black Soil,797,Chilli,Rabi,31950,80514,2.52,2015
+Kurnool,Black Soil,1189,Sugarcane,Annual,27416,2071278,75.55,2015
+Eluru,Clay Loam,709,Rice,Kharif,68055,342316,5.03,2015
+Eluru,Clay Loam,948,Maize,Rabi,84110,347374,4.13,2015
+Eluru,Clay Loam,507,Groundnut,Kharif,141854,286545,2.02,2015
+Eluru,Clay Loam,546,Cotton,Kharif,106016,273521,2.58,2015
+Eluru,Clay Loam,643,Millets,Kharif,35876,47715,1.33,2015
+Eluru,Clay Loam,994,Pulses,Rabi,18322,22719,1.24,2015
+Eluru,Clay Loam,579,Tomato,Rabi,16995,344998,20.3,2015
+Eluru,Clay Loam,615,Chilli,Rabi,50982,201888,3.96,2015
+Eluru,Clay Loam,734,Sugarcane,Annual,103748,8680595,83.67,2015
+Bapatla,Sandy Loam,659,Rice,Kharif,51408,227737,4.43,2015
+Bapatla,Sandy Loam,680,Maize,Rabi,34782,140867,4.05,2015
+Bapatla,Sandy Loam,979,Groundnut,Kharif,113433,181492,1.6,2015
+Bapatla,Sandy Loam,1001,Cotton,Kharif,5955,16554,2.78,2015
+Bapatla,Sandy Loam,1200,Millets,Kharif,115691,149241,1.29,2015
+Bapatla,Sandy Loam,773,Pulses,Rabi,92471,134082,1.45,2015
+Bapatla,Sandy Loam,1132,Tomato,Rabi,39316,996267,25.34,2015
+Bapatla,Sandy Loam,786,Chilli,Rabi,122145,350556,2.87,2015
+Bapatla,Sandy Loam,1087,Sugarcane,Annual,134299,11772650,87.66,2015
+Anantapur,Red Soil,1031,Rice,Kharif,142640,620484,4.35,2016
+Anantapur,Red Soil,690,Maize,Rabi,74958,291586,3.89,2016
+Anantapur,Red Soil,866,Groundnut,Kharif,25543,37037,1.45,2016
+Anantapur,Red Soil,1152,Cotton,Kharif,82770,218512,2.64,2016
+Anantapur,Red Soil,631,Millets,Kharif,22364,34887,1.56,2016
+Anantapur,Red Soil,719,Pulses,Rabi,44998,67047,1.49,2016
+Anantapur,Red Soil,575,Tomato,Rabi,86012,2538214,29.51,2016
+Anantapur,Red Soil,1188,Chilli,Rabi,69487,231391,3.33,2016
+Anantapur,Red Soil,977,Sugarcane,Annual,5196,463794,89.26,2016
+Chittoor,Red Soil,785,Rice,Kharif,26923,121153,4.5,2016
+Chittoor,Red Soil,955,Maize,Rabi,132901,542236,4.08,2016
+Chittoor,Red Soil,709,Groundnut,Kharif,70084,113536,1.62,2016
+Chittoor,Red Soil,666,Cotton,Kharif,53382,104628,1.96,2016
+Chittoor,Red Soil,1075,Millets,Kharif,68754,121694,1.77,2016
+Chittoor,Red Soil,1048,Pulses,Rabi,139419,186821,1.34,2016
+Chittoor,Red Soil,1112,Tomato,Rabi,102747,2331329,22.69,2016
+Chittoor,Red Soil,627,Chilli,Rabi,55113,219900,3.99,2016
+Chittoor,Red Soil,542,Sugarcane,Annual,44672,3355760,75.12,2016
+Guntur,Clay Loam,840,Rice,Kharif,84073,391780,4.66,2016
+Guntur,Clay Loam,618,Maize,Rabi,77633,383507,4.94,2016
+Guntur,Clay Loam,707,Groundnut,Kharif,140413,299079,2.13,2016
+Guntur,Clay Loam,900,Cotton,Kharif,90381,167204,1.85,2016
+Guntur,Clay Loam,1193,Millets,Kharif,121409,208823,1.72,2016
+Guntur,Clay Loam,913,Pulses,Rabi,77529,82956,1.07,2016
+Guntur,Clay Loam,786,Tomato,Rabi,44538,1190055,26.72,2016
+Guntur,Clay Loam,710,Chilli,Rabi,43529,170633,3.92,2016
+Guntur,Clay Loam,965,Sugarcane,Annual,7941,571116,71.92,2016
+Krishna,Clay Loam,600,Rice,Kharif,20794,105009,5.05,2016
+Krishna,Clay Loam,801,Maize,Rabi,143780,585184,4.07,2016
+Krishna,Clay Loam,944,Groundnut,Kharif,124079,266769,2.15,2016
+Krishna,Clay Loam,769,Cotton,Kharif,20174,52250,2.59,2016
+Krishna,Clay Loam,1019,Millets,Kharif,21345,37994,1.78,2016
+Krishna,Clay Loam,573,Pulses,Rabi,91318,129671,1.42,2016
+Krishna,Clay Loam,845,Tomato,Rabi,9186,245909,26.77,2016
+Krishna,Clay Loam,1140,Chilli,Rabi,74315,222945,3.0,2016
+Krishna,Clay Loam,1143,Sugarcane,Annual,55206,4715144,85.41,2016
+East Godavari,Clay Soil,943,Rice,Kharif,84390,395789,4.69,2016
+East Godavari,Clay Soil,737,Maize,Rabi,43281,180914,4.18,2016
+East Godavari,Clay Soil,857,Groundnut,Kharif,26610,41777,1.57,2016
+East Godavari,Clay Soil,1098,Cotton,Kharif,47933,97783,2.04,2016
+East Godavari,Clay Soil,575,Millets,Kharif,65819,111234,1.69,2016
+East Godavari,Clay Soil,563,Pulses,Rabi,131669,180386,1.37,2016
+East Godavari,Clay Soil,658,Tomato,Rabi,120322,3085056,25.64,2016
+East Godavari,Clay Soil,580,Chilli,Rabi,49970,165400,3.31,2016
+East Godavari,Clay Soil,1164,Sugarcane,Annual,114329,9417279,82.37,2016
+West Godavari,Clay Soil,1077,Rice,Kharif,54387,232232,4.27,2016
+West Godavari,Clay Soil,1119,Maize,Rabi,140665,602046,4.28,2016
+West Godavari,Clay Soil,862,Groundnut,Kharif,77380,116070,1.5,2016
+West Godavari,Clay Soil,503,Cotton,Kharif,47665,106769,2.24,2016
+West Godavari,Clay Soil,665,Millets,Kharif,105020,181684,1.73,2016
+West Godavari,Clay Soil,538,Pulses,Rabi,10480,10794,1.03,2016
+West Godavari,Clay Soil,610,Tomato,Rabi,140223,3302251,23.55,2016
+West Godavari,Clay Soil,762,Chilli,Rabi,72144,200560,2.78,2016
+West Godavari,Clay Soil,1137,Sugarcane,Annual,49460,3684770,74.5,2016
+Prakasam,Red Soil,1182,Rice,Kharif,63575,329954,5.19,2016
+Prakasam,Red Soil,544,Maize,Rabi,108130,491991,4.55,2016
+Prakasam,Red Soil,880,Groundnut,Kharif,46596,90862,1.95,2016
+Prakasam,Red Soil,1171,Cotton,Kharif,17084,45955,2.69,2016
+Prakasam,Red Soil,971,Millets,Kharif,7599,10030,1.32,2016
+Prakasam,Red Soil,970,Pulses,Rabi,66915,97695,1.46,2016
+Prakasam,Red Soil,733,Tomato,Rabi,73797,1664122,22.55,2016
+Prakasam,Red Soil,775,Chilli,Rabi,52751,190431,3.61,2016
+Prakasam,Red Soil,1071,Sugarcane,Annual,125384,10563602,84.25,2016
+Kadapa,Red Soil,626,Rice,Kharif,146201,596500,4.08,2016
+Kadapa,Red Soil,790,Maize,Rabi,91573,369039,4.03,2016
+Kadapa,Red Soil,1179,Groundnut,Kharif,141587,229370,1.62,2016
+Kadapa,Red Soil,945,Cotton,Kharif,73704,143722,1.95,2016
+Kadapa,Red Soil,979,Millets,Kharif,14856,23769,1.6,2016
+Kadapa,Red Soil,1139,Pulses,Rabi,109883,173615,1.58,2016
+Kadapa,Red Soil,699,Tomato,Rabi,17157,570641,33.26,2016
+Kadapa,Red Soil,766,Chilli,Rabi,124299,370411,2.98,2016
+Kadapa,Red Soil,746,Sugarcane,Annual,67614,5616694,83.07,2016
+Nellore,Sandy Soil,1009,Rice,Kharif,89883,367621,4.09,2016
+Nellore,Sandy Soil,1051,Maize,Rabi,61707,284469,4.61,2016
+Nellore,Sandy Soil,600,Groundnut,Kharif,148333,277382,1.87,2016
+Nellore,Sandy Soil,1044,Cotton,Kharif,10690,27900,2.61,2016
+Nellore,Sandy Soil,796,Millets,Kharif,44423,54640,1.23,2016
+Nellore,Sandy Soil,661,Pulses,Rabi,21235,22084,1.04,2016
+Nellore,Sandy Soil,865,Tomato,Rabi,121661,2904048,23.87,2016
+Nellore,Sandy Soil,861,Chilli,Rabi,27680,75012,2.71,2016
+Nellore,Sandy Soil,506,Sugarcane,Annual,109210,8842733,80.97,2016
+Visakhapatnam,Laterite Soil,920,Rice,Kharif,74189,380589,5.13,2016
+Visakhapatnam,Laterite Soil,945,Maize,Rabi,21248,96678,4.55,2016
+Visakhapatnam,Laterite Soil,792,Groundnut,Kharif,54256,78128,1.44,2016
+Visakhapatnam,Laterite Soil,515,Cotton,Kharif,132000,295680,2.24,2016
+Visakhapatnam,Laterite Soil,518,Millets,Kharif,16964,21713,1.28,2016
+Visakhapatnam,Laterite Soil,676,Pulses,Rabi,109513,133605,1.22,2016
+Visakhapatnam,Laterite Soil,726,Tomato,Rabi,89016,2851182,32.03,2016
+Visakhapatnam,Laterite Soil,625,Chilli,Rabi,82099,208531,2.54,2016
+Visakhapatnam,Laterite Soil,674,Sugarcane,Annual,44242,4196796,94.86,2016
+Vizianagaram,Red Loam,990,Rice,Kharif,10928,49066,4.49,2016
+Vizianagaram,Red Loam,973,Maize,Rabi,149615,658306,4.4,2016
+Vizianagaram,Red Loam,654,Groundnut,Kharif,43513,61788,1.42,2016
+Vizianagaram,Red Loam,1131,Cotton,Kharif,11097,22526,2.03,2016
+Vizianagaram,Red Loam,779,Millets,Kharif,60672,104962,1.73,2016
+Vizianagaram,Red Loam,593,Pulses,Rabi,37257,57003,1.53,2016
+Vizianagaram,Red Loam,969,Tomato,Rabi,68052,2377736,34.94,2016
+Vizianagaram,Red Loam,992,Chilli,Rabi,95128,252089,2.65,2016
+Vizianagaram,Red Loam,647,Sugarcane,Annual,116103,9943060,85.64,2016
+Srikakulam,Red Loam,592,Rice,Kharif,11268,57241,5.08,2016
+Srikakulam,Red Loam,516,Maize,Rabi,47932,199397,4.16,2016
+Srikakulam,Red Loam,945,Groundnut,Kharif,82088,142012,1.73,2016
+Srikakulam,Red Loam,841,Cotton,Kharif,79538,218729,2.75,2016
+Srikakulam,Red Loam,535,Millets,Kharif,146208,226622,1.55,2016
+Srikakulam,Red Loam,815,Pulses,Rabi,113654,154569,1.36,2016
+Srikakulam,Red Loam,1033,Tomato,Rabi,31090,1075714,34.6,2016
+Srikakulam,Red Loam,759,Chilli,Rabi,88564,232923,2.63,2016
+Srikakulam,Red Loam,707,Sugarcane,Annual,25110,2373397,94.52,2016
+Kurnool,Black Soil,1073,Rice,Kharif,10992,45726,4.16,2016
+Kurnool,Black Soil,766,Maize,Rabi,31086,119681,3.85,2016
+Kurnool,Black Soil,728,Groundnut,Kharif,74868,131767,1.76,2016
+Kurnool,Black Soil,640,Cotton,Kharif,112972,264354,2.34,2016
+Kurnool,Black Soil,671,Millets,Kharif,74896,119084,1.59,2016
+Kurnool,Black Soil,927,Pulses,Rabi,142674,208304,1.46,2016
+Kurnool,Black Soil,1174,Tomato,Rabi,134452,3558944,26.47,2016
+Kurnool,Black Soil,951,Chilli,Rabi,89578,353833,3.95,2016
+Kurnool,Black Soil,861,Sugarcane,Annual,73868,6052743,81.94,2016
+Eluru,Clay Loam,1046,Rice,Kharif,143784,736174,5.12,2016
+Eluru,Clay Loam,815,Maize,Rabi,112890,502360,4.45,2016
+Eluru,Clay Loam,977,Groundnut,Kharif,22388,42984,1.92,2016
+Eluru,Clay Loam,1058,Cotton,Kharif,51081,113399,2.22,2016
+Eluru,Clay Loam,845,Millets,Kharif,144471,234043,1.62,2016
+Eluru,Clay Loam,1025,Pulses,Rabi,134797,141536,1.05,2016
+Eluru,Clay Loam,1003,Tomato,Rabi,136181,3307836,24.29,2016
+Eluru,Clay Loam,910,Chilli,Rabi,12138,43575,3.59,2016
+Eluru,Clay Loam,1086,Sugarcane,Annual,15128,1327179,87.73,2016
+Bapatla,Sandy Loam,671,Rice,Kharif,115453,512611,4.44,2016
+Bapatla,Sandy Loam,814,Maize,Rabi,44408,199836,4.5,2016
+Bapatla,Sandy Loam,1176,Groundnut,Kharif,17699,35751,2.02,2016
+Bapatla,Sandy Loam,547,Cotton,Kharif,65176,172064,2.64,2016
+Bapatla,Sandy Loam,858,Millets,Kharif,110325,172107,1.56,2016
+Bapatla,Sandy Loam,1035,Pulses,Rabi,31215,39330,1.26,2016
+Bapatla,Sandy Loam,562,Tomato,Rabi,146916,4232649,28.81,2016
+Bapatla,Sandy Loam,1162,Chilli,Rabi,42233,117407,2.78,2016
+Bapatla,Sandy Loam,555,Sugarcane,Annual,74322,6960255,93.65,2016
+Anantapur,Red Soil,800,Rice,Kharif,82399,377387,4.58,2017
+Anantapur,Red Soil,1022,Maize,Rabi,114451,482983,4.22,2017
+Anantapur,Red Soil,1053,Groundnut,Kharif,85567,159154,1.86,2017
+Anantapur,Red Soil,1069,Cotton,Kharif,123159,336224,2.73,2017
+Anantapur,Red Soil,1173,Millets,Kharif,70713,115969,1.64,2017
+Anantapur,Red Soil,675,Pulses,Rabi,142940,164381,1.15,2017
+Anantapur,Red Soil,1142,Tomato,Rabi,121159,4154542,34.29,2017
+Anantapur,Red Soil,1040,Chilli,Rabi,88084,280987,3.19,2017
+Anantapur,Red Soil,576,Sugarcane,Annual,93657,7544071,80.55,2017
+Chittoor,Red Soil,748,Rice,Kharif,74217,313195,4.22,2017
+Chittoor,Red Soil,1064,Maize,Rabi,99319,481697,4.85,2017
+Chittoor,Red Soil,572,Groundnut,Kharif,83620,165567,1.98,2017
+Chittoor,Red Soil,1087,Cotton,Kharif,69653,149753,2.15,2017
+Chittoor,Red Soil,561,Millets,Kharif,23039,33867,1.47,2017
+Chittoor,Red Soil,579,Pulses,Rabi,142422,225026,1.58,2017
+Chittoor,Red Soil,743,Tomato,Rabi,30041,872090,29.03,2017
+Chittoor,Red Soil,537,Chilli,Rabi,128213,510287,3.98,2017
+Chittoor,Red Soil,1168,Sugarcane,Annual,136127,10391935,76.34,2017
+Guntur,Clay Loam,874,Rice,Kharif,125911,644664,5.12,2017
+Guntur,Clay Loam,921,Maize,Rabi,115191,496473,4.31,2017
+Guntur,Clay Loam,568,Groundnut,Kharif,112068,233101,2.08,2017
+Guntur,Clay Loam,1015,Cotton,Kharif,9305,18423,1.98,2017
+Guntur,Clay Loam,1174,Millets,Kharif,97452,158846,1.63,2017
+Guntur,Clay Loam,968,Pulses,Rabi,92940,94798,1.02,2017
+Guntur,Clay Loam,689,Tomato,Rabi,10443,346707,33.2,2017
+Guntur,Clay Loam,523,Chilli,Rabi,148873,486814,3.27,2017
+Guntur,Clay Loam,727,Sugarcane,Annual,73987,6743175,91.14,2017
+Krishna,Clay Loam,1028,Rice,Kharif,18400,93472,5.08,2017
+Krishna,Clay Loam,611,Maize,Rabi,127617,534715,4.19,2017
+Krishna,Clay Loam,715,Groundnut,Kharif,99416,147135,1.48,2017
+Krishna,Clay Loam,1139,Cotton,Kharif,31793,57545,1.81,2017
+Krishna,Clay Loam,506,Millets,Kharif,139051,211357,1.52,2017
+Krishna,Clay Loam,622,Pulses,Rabi,28321,37100,1.31,2017
+Krishna,Clay Loam,1157,Tomato,Rabi,34666,1059046,30.55,2017
+Krishna,Clay Loam,1089,Chilli,Rabi,44132,115184,2.61,2017
+Krishna,Clay Loam,871,Sugarcane,Annual,20773,1839656,88.56,2017
+East Godavari,Clay Soil,923,Rice,Kharif,9524,49239,5.17,2017
+East Godavari,Clay Soil,832,Maize,Rabi,128863,574728,4.46,2017
+East Godavari,Clay Soil,502,Groundnut,Kharif,62637,134043,2.14,2017
+East Godavari,Clay Soil,919,Cotton,Kharif,5552,14601,2.63,2017
+East Godavari,Clay Soil,1129,Millets,Kharif,29609,38787,1.31,2017
+East Godavari,Clay Soil,532,Pulses,Rabi,141320,180889,1.28,2017
+East Godavari,Clay Soil,717,Tomato,Rabi,138856,2788228,20.08,2017
+East Godavari,Clay Soil,1063,Chilli,Rabi,69972,211315,3.02,2017
+East Godavari,Clay Soil,540,Sugarcane,Annual,65407,5958577,91.1,2017
+West Godavari,Clay Soil,659,Rice,Kharif,124100,562173,4.53,2017
+West Godavari,Clay Soil,1130,Maize,Rabi,18356,70854,3.86,2017
+West Godavari,Clay Soil,690,Groundnut,Kharif,11373,21836,1.92,2017
+West Godavari,Clay Soil,1152,Cotton,Kharif,104521,249805,2.39,2017
+West Godavari,Clay Soil,959,Millets,Kharif,47131,83893,1.78,2017
+West Godavari,Clay Soil,745,Pulses,Rabi,143580,228292,1.59,2017
+West Godavari,Clay Soil,1188,Tomato,Rabi,76672,1912199,24.94,2017
+West Godavari,Clay Soil,560,Chilli,Rabi,25729,74099,2.88,2017
+West Godavari,Clay Soil,673,Sugarcane,Annual,62189,4662931,74.98,2017
+Prakasam,Red Soil,588,Rice,Kharif,119933,524107,4.37,2017
+Prakasam,Red Soil,526,Maize,Rabi,36071,156187,4.33,2017
+Prakasam,Red Soil,963,Groundnut,Kharif,100543,219183,2.18,2017
+Prakasam,Red Soil,606,Cotton,Kharif,32963,66255,2.01,2017
+Prakasam,Red Soil,835,Millets,Kharif,35936,49232,1.37,2017
+Prakasam,Red Soil,1151,Pulses,Rabi,20072,31713,1.58,2017
+Prakasam,Red Soil,927,Tomato,Rabi,30295,977619,32.27,2017
+Prakasam,Red Soil,779,Chilli,Rabi,79021,287636,3.64,2017
+Prakasam,Red Soil,588,Sugarcane,Annual,84900,7766652,91.48,2017
+Kadapa,Red Soil,641,Rice,Kharif,63375,261105,4.12,2017
+Kadapa,Red Soil,576,Maize,Rabi,28890,130005,4.5,2017
+Kadapa,Red Soil,965,Groundnut,Kharif,97173,156448,1.61,2017
+Kadapa,Red Soil,1072,Cotton,Kharif,42142,97769,2.32,2017
+Kadapa,Red Soil,973,Millets,Kharif,110416,154582,1.4,2017
+Kadapa,Red Soil,1130,Pulses,Rabi,45911,68407,1.49,2017
+Kadapa,Red Soil,1085,Tomato,Rabi,49288,1093207,22.18,2017
+Kadapa,Red Soil,1120,Chilli,Rabi,71468,244420,3.42,2017
+Kadapa,Red Soil,1061,Sugarcane,Annual,84997,6316127,74.31,2017
+Nellore,Sandy Soil,854,Rice,Kharif,86377,348099,4.03,2017
+Nellore,Sandy Soil,1069,Maize,Rabi,66932,257018,3.84,2017
+Nellore,Sandy Soil,755,Groundnut,Kharif,5180,9893,1.91,2017
+Nellore,Sandy Soil,952,Cotton,Kharif,145144,296093,2.04,2017
+Nellore,Sandy Soil,687,Millets,Kharif,81980,126249,1.54,2017
+Nellore,Sandy Soil,1144,Pulses,Rabi,143754,196942,1.37,2017
+Nellore,Sandy Soil,1089,Tomato,Rabi,139523,3454589,24.76,2017
+Nellore,Sandy Soil,849,Chilli,Rabi,131453,465343,3.54,2017
+Nellore,Sandy Soil,540,Sugarcane,Annual,109051,9527785,87.37,2017
+Visakhapatnam,Laterite Soil,631,Rice,Kharif,145558,622988,4.28,2017
+Visakhapatnam,Laterite Soil,504,Maize,Rabi,50770,217803,4.29,2017
+Visakhapatnam,Laterite Soil,1056,Groundnut,Kharif,45777,94300,2.06,2017
+Visakhapatnam,Laterite Soil,583,Cotton,Kharif,31662,83904,2.65,2017
+Visakhapatnam,Laterite Soil,628,Millets,Kharif,24990,37235,1.49,2017
+Visakhapatnam,Laterite Soil,735,Pulses,Rabi,49612,53580,1.08,2017
+Visakhapatnam,Laterite Soil,706,Tomato,Rabi,88677,2205396,24.87,2017
+Visakhapatnam,Laterite Soil,1010,Chilli,Rabi,31752,99701,3.14,2017
+Visakhapatnam,Laterite Soil,833,Sugarcane,Annual,64102,5214056,81.34,2017
+Vizianagaram,Red Loam,1059,Rice,Kharif,34648,162845,4.7,2017
+Vizianagaram,Red Loam,1046,Maize,Rabi,119960,484638,4.04,2017
+Vizianagaram,Red Loam,662,Groundnut,Kharif,9254,14436,1.56,2017
+Vizianagaram,Red Loam,869,Cotton,Kharif,17543,31752,1.81,2017
+Vizianagaram,Red Loam,870,Millets,Kharif,83644,131321,1.57,2017
+Vizianagaram,Red Loam,1118,Pulses,Rabi,83738,84575,1.01,2017
+Vizianagaram,Red Loam,720,Tomato,Rabi,70996,1970848,27.76,2017
+Vizianagaram,Red Loam,500,Chilli,Rabi,107977,377919,3.5,2017
+Vizianagaram,Red Loam,536,Sugarcane,Annual,58814,5247973,89.23,2017
+Srikakulam,Red Loam,915,Rice,Kharif,70118,299403,4.27,2017
+Srikakulam,Red Loam,508,Maize,Rabi,118309,470869,3.98,2017
+Srikakulam,Red Loam,1107,Groundnut,Kharif,6675,13216,1.98,2017
+Srikakulam,Red Loam,737,Cotton,Kharif,117925,297171,2.52,2017
+Srikakulam,Red Loam,578,Millets,Kharif,122582,166711,1.36,2017
+Srikakulam,Red Loam,1016,Pulses,Rabi,77917,108304,1.39,2017
+Srikakulam,Red Loam,949,Tomato,Rabi,89313,2974122,33.3,2017
+Srikakulam,Red Loam,599,Chilli,Rabi,137492,371228,2.7,2017
+Srikakulam,Red Loam,565,Sugarcane,Annual,146984,12759681,86.81,2017
+Kurnool,Black Soil,732,Rice,Kharif,115776,527938,4.56,2017
+Kurnool,Black Soil,1007,Maize,Rabi,99287,483527,4.87,2017
+Kurnool,Black Soil,1190,Groundnut,Kharif,81713,146266,1.79,2017
+Kurnool,Black Soil,628,Cotton,Kharif,47780,121838,2.55,2017
+Kurnool,Black Soil,765,Millets,Kharif,91758,154153,1.68,2017
+Kurnool,Black Soil,827,Pulses,Rabi,23426,25534,1.09,2017
+Kurnool,Black Soil,591,Tomato,Rabi,119781,3505989,29.27,2017
+Kurnool,Black Soil,562,Chilli,Rabi,119729,390316,3.26,2017
+Kurnool,Black Soil,640,Sugarcane,Annual,110938,9540668,86.0,2017
+Eluru,Clay Loam,957,Rice,Kharif,62549,277717,4.44,2017
+Eluru,Clay Loam,1071,Maize,Rabi,38114,179135,4.7,2017
+Eluru,Clay Loam,997,Groundnut,Kharif,140207,307053,2.19,2017
+Eluru,Clay Loam,505,Cotton,Kharif,22098,47068,2.13,2017
+Eluru,Clay Loam,856,Millets,Kharif,108939,153603,1.41,2017
+Eluru,Clay Loam,593,Pulses,Rabi,7913,9970,1.26,2017
+Eluru,Clay Loam,903,Tomato,Rabi,122900,3001218,24.42,2017
+Eluru,Clay Loam,1198,Chilli,Rabi,75065,264228,3.52,2017
+Eluru,Clay Loam,1065,Sugarcane,Annual,130497,10144836,77.74,2017
+Bapatla,Sandy Loam,768,Rice,Kharif,95933,478705,4.99,2017
+Bapatla,Sandy Loam,513,Maize,Rabi,71763,289204,4.03,2017
+Bapatla,Sandy Loam,1123,Groundnut,Kharif,45262,93239,2.06,2017
+Bapatla,Sandy Loam,843,Cotton,Kharif,49983,93968,1.88,2017
+Bapatla,Sandy Loam,1002,Millets,Kharif,12362,17801,1.44,2017
+Bapatla,Sandy Loam,738,Pulses,Rabi,136341,175879,1.29,2017
+Bapatla,Sandy Loam,1151,Tomato,Rabi,91468,2352556,25.72,2017
+Bapatla,Sandy Loam,598,Chilli,Rabi,43729,148678,3.4,2017
+Bapatla,Sandy Loam,1031,Sugarcane,Annual,90968,8305378,91.3,2017
+Anantapur,Red Soil,751,Rice,Kharif,5125,24753,4.83,2018
+Anantapur,Red Soil,822,Maize,Rabi,146551,725427,4.95,2018
+Anantapur,Red Soil,688,Groundnut,Kharif,143496,304211,2.12,2018
+Anantapur,Red Soil,904,Cotton,Kharif,79494,218608,2.75,2018
+Anantapur,Red Soil,1042,Millets,Kharif,58702,77486,1.32,2018
+Anantapur,Red Soil,915,Pulses,Rabi,56627,73615,1.3,2018
+Anantapur,Red Soil,1024,Tomato,Rabi,60545,1289608,21.3,2018
+Anantapur,Red Soil,892,Chilli,Rabi,66654,173300,2.6,2018
+Anantapur,Red Soil,529,Sugarcane,Annual,48989,4489841,91.65,2018
+Chittoor,Red Soil,619,Rice,Kharif,64566,317019,4.91,2018
+Chittoor,Red Soil,787,Maize,Rabi,11845,54842,4.63,2018
+Chittoor,Red Soil,702,Groundnut,Kharif,26653,51440,1.93,2018
+Chittoor,Red Soil,626,Cotton,Kharif,50640,136728,2.7,2018
+Chittoor,Red Soil,526,Millets,Kharif,33467,57563,1.72,2018
+Chittoor,Red Soil,674,Pulses,Rabi,70287,102619,1.46,2018
+Chittoor,Red Soil,648,Tomato,Rabi,18722,587683,31.39,2018
+Chittoor,Red Soil,882,Chilli,Rabi,44794,135725,3.03,2018
+Chittoor,Red Soil,560,Sugarcane,Annual,60155,4642762,77.18,2018
+Guntur,Clay Loam,585,Rice,Kharif,38561,156172,4.05,2018
+Guntur,Clay Loam,961,Maize,Rabi,56269,243082,4.32,2018
+Guntur,Clay Loam,517,Groundnut,Kharif,124437,196610,1.58,2018
+Guntur,Clay Loam,583,Cotton,Kharif,10611,24829,2.34,2018
+Guntur,Clay Loam,560,Millets,Kharif,149008,268214,1.8,2018
+Guntur,Clay Loam,570,Pulses,Rabi,130617,133229,1.02,2018
+Guntur,Clay Loam,827,Tomato,Rabi,113158,3495450,30.89,2018
+Guntur,Clay Loam,609,Chilli,Rabi,81307,288639,3.55,2018
+Guntur,Clay Loam,732,Sugarcane,Annual,34170,2880872,84.31,2018
+Krishna,Clay Loam,712,Rice,Kharif,47165,219788,4.66,2018
+Krishna,Clay Loam,1031,Maize,Rabi,128641,567306,4.41,2018
+Krishna,Clay Loam,546,Groundnut,Kharif,41740,60105,1.44,2018
+Krishna,Clay Loam,577,Cotton,Kharif,128130,303668,2.37,2018
+Krishna,Clay Loam,1030,Millets,Kharif,136560,219861,1.61,2018
+Krishna,Clay Loam,1038,Pulses,Rabi,113516,141895,1.25,2018
+Krishna,Clay Loam,796,Tomato,Rabi,78708,2580835,32.79,2018
+Krishna,Clay Loam,1089,Chilli,Rabi,104829,274651,2.62,2018
+Krishna,Clay Loam,649,Sugarcane,Annual,147134,11758949,79.92,2018
+East Godavari,Clay Soil,1007,Rice,Kharif,9990,42357,4.24,2018
+East Godavari,Clay Soil,906,Maize,Rabi,142156,598476,4.21,2018
+East Godavari,Clay Soil,731,Groundnut,Kharif,98717,203357,2.06,2018
+East Godavari,Clay Soil,1166,Cotton,Kharif,139729,363295,2.6,2018
+East Godavari,Clay Soil,703,Millets,Kharif,22439,39941,1.78,2018
+East Godavari,Clay Soil,889,Pulses,Rabi,146828,174725,1.19,2018
+East Godavari,Clay Soil,1114,Tomato,Rabi,142056,4483287,31.56,2018
+East Godavari,Clay Soil,1042,Chilli,Rabi,105270,321073,3.05,2018
+East Godavari,Clay Soil,1037,Sugarcane,Annual,112222,9818302,87.49,2018
+West Godavari,Clay Soil,571,Rice,Kharif,79521,383291,4.82,2018
+West Godavari,Clay Soil,859,Maize,Rabi,45248,207235,4.58,2018
+West Godavari,Clay Soil,1080,Groundnut,Kharif,56875,94412,1.66,2018
+West Godavari,Clay Soil,1178,Cotton,Kharif,39112,87610,2.24,2018
+West Godavari,Clay Soil,1172,Millets,Kharif,9733,12750,1.31,2018
+West Godavari,Clay Soil,625,Pulses,Rabi,21826,33393,1.53,2018
+West Godavari,Clay Soil,877,Tomato,Rabi,59865,2073124,34.63,2018
+West Godavari,Clay Soil,828,Chilli,Rabi,98306,375528,3.82,2018
+West Godavari,Clay Soil,1169,Sugarcane,Annual,25645,2398320,93.52,2018
+Prakasam,Red Soil,655,Rice,Kharif,120995,546897,4.52,2018
+Prakasam,Red Soil,846,Maize,Rabi,119932,466535,3.89,2018
+Prakasam,Red Soil,636,Groundnut,Kharif,66208,123808,1.87,2018
+Prakasam,Red Soil,1153,Cotton,Kharif,41994,87347,2.08,2018
+Prakasam,Red Soil,513,Millets,Kharif,42055,74857,1.78,2018
+Prakasam,Red Soil,900,Pulses,Rabi,90200,117260,1.3,2018
+Prakasam,Red Soil,604,Tomato,Rabi,44628,980477,21.97,2018
+Prakasam,Red Soil,853,Chilli,Rabi,149045,408383,2.74,2018
+Prakasam,Red Soil,873,Sugarcane,Annual,137384,9702058,70.62,2018
+Kadapa,Red Soil,536,Rice,Kharif,61072,298031,4.88,2018
+Kadapa,Red Soil,725,Maize,Rabi,22804,99881,4.38,2018
+Kadapa,Red Soil,755,Groundnut,Kharif,77905,165937,2.13,2018
+Kadapa,Red Soil,1026,Cotton,Kharif,45582,119424,2.62,2018
+Kadapa,Red Soil,648,Millets,Kharif,104937,172096,1.64,2018
+Kadapa,Red Soil,1132,Pulses,Rabi,36652,40317,1.1,2018
+Kadapa,Red Soil,692,Tomato,Rabi,97034,2918782,30.08,2018
+Kadapa,Red Soil,1067,Chilli,Rabi,147788,472921,3.2,2018
+Kadapa,Red Soil,518,Sugarcane,Annual,52030,4564591,87.73,2018
+Nellore,Sandy Soil,527,Rice,Kharif,120379,587449,4.88,2018
+Nellore,Sandy Soil,564,Maize,Rabi,144936,598585,4.13,2018
+Nellore,Sandy Soil,663,Groundnut,Kharif,91532,161096,1.76,2018
+Nellore,Sandy Soil,636,Cotton,Kharif,131392,314026,2.39,2018
+Nellore,Sandy Soil,750,Millets,Kharif,136347,224972,1.65,2018
+Nellore,Sandy Soil,835,Pulses,Rabi,126948,140912,1.11,2018
+Nellore,Sandy Soil,827,Tomato,Rabi,116469,2541353,21.82,2018
+Nellore,Sandy Soil,881,Chilli,Rabi,125243,383243,3.06,2018
+Nellore,Sandy Soil,1039,Sugarcane,Annual,35952,3324840,92.48,2018
+Visakhapatnam,Laterite Soil,1163,Rice,Kharif,48153,215243,4.47,2018
+Visakhapatnam,Laterite Soil,626,Maize,Rabi,137702,578348,4.2,2018
+Visakhapatnam,Laterite Soil,544,Groundnut,Kharif,57280,115705,2.02,2018
+Visakhapatnam,Laterite Soil,839,Cotton,Kharif,148073,398316,2.69,2018
+Visakhapatnam,Laterite Soil,586,Millets,Kharif,37067,57083,1.54,2018
+Visakhapatnam,Laterite Soil,906,Pulses,Rabi,124644,142094,1.14,2018
+Visakhapatnam,Laterite Soil,889,Tomato,Rabi,55225,1382281,25.03,2018
+Visakhapatnam,Laterite Soil,1190,Chilli,Rabi,54809,151272,2.76,2018
+Visakhapatnam,Laterite Soil,925,Sugarcane,Annual,133027,12521831,94.13,2018
+Vizianagaram,Red Loam,1069,Rice,Kharif,132516,646678,4.88,2018
+Vizianagaram,Red Loam,1061,Maize,Rabi,68565,274260,4.0,2018
+Vizianagaram,Red Loam,792,Groundnut,Kharif,85094,119131,1.4,2018
+Vizianagaram,Red Loam,1112,Cotton,Kharif,143781,345074,2.4,2018
+Vizianagaram,Red Loam,712,Millets,Kharif,76076,125525,1.65,2018
+Vizianagaram,Red Loam,726,Pulses,Rabi,46292,49069,1.06,2018
+Vizianagaram,Red Loam,1136,Tomato,Rabi,21283,585282,27.5,2018
+Vizianagaram,Red Loam,669,Chilli,Rabi,137954,419380,3.04,2018
+Vizianagaram,Red Loam,1038,Sugarcane,Annual,120638,10204768,84.59,2018
+Srikakulam,Red Loam,1157,Rice,Kharif,89310,460839,5.16,2018
+Srikakulam,Red Loam,533,Maize,Rabi,59270,244785,4.13,2018
+Srikakulam,Red Loam,855,Groundnut,Kharif,54111,105516,1.95,2018
+Srikakulam,Red Loam,1155,Cotton,Kharif,11543,27472,2.38,2018
+Srikakulam,Red Loam,925,Millets,Kharif,148850,190528,1.28,2018
+Srikakulam,Red Loam,1033,Pulses,Rabi,126256,175495,1.39,2018
+Srikakulam,Red Loam,832,Tomato,Rabi,90991,2496793,27.44,2018
+Srikakulam,Red Loam,814,Chilli,Rabi,52536,168115,3.2,2018
+Srikakulam,Red Loam,975,Sugarcane,Annual,31627,2778431,87.85,2018
+Kurnool,Black Soil,1200,Rice,Kharif,134056,580462,4.33,2018
+Kurnool,Black Soil,1006,Maize,Rabi,56036,261127,4.66,2018
+Kurnool,Black Soil,1010,Groundnut,Kharif,122940,180721,1.47,2018
+Kurnool,Black Soil,1047,Cotton,Kharif,5595,11749,2.1,2018
+Kurnool,Black Soil,731,Millets,Kharif,41286,74314,1.8,2018
+Kurnool,Black Soil,872,Pulses,Rabi,36878,46466,1.26,2018
+Kurnool,Black Soil,913,Tomato,Rabi,76056,2239088,29.44,2018
+Kurnool,Black Soil,893,Chilli,Rabi,76032,191600,2.52,2018
+Kurnool,Black Soil,939,Sugarcane,Annual,129547,9753593,75.29,2018
+Eluru,Clay Loam,904,Rice,Kharif,100705,508560,5.05,2018
+Eluru,Clay Loam,995,Maize,Rabi,67164,310297,4.62,2018
+Eluru,Clay Loam,1139,Groundnut,Kharif,102584,144643,1.41,2018
+Eluru,Clay Loam,873,Cotton,Kharif,22242,58941,2.65,2018
+Eluru,Clay Loam,590,Millets,Kharif,96727,116072,1.2,2018
+Eluru,Clay Loam,1111,Pulses,Rabi,53956,68524,1.27,2018
+Eluru,Clay Loam,1147,Tomato,Rabi,95204,2337258,24.55,2018
+Eluru,Clay Loam,816,Chilli,Rabi,119749,358049,2.99,2018
+Eluru,Clay Loam,521,Sugarcane,Annual,133127,12643071,94.97,2018
+Bapatla,Sandy Loam,917,Rice,Kharif,146612,689076,4.7,2018
+Bapatla,Sandy Loam,959,Maize,Rabi,52571,214489,4.08,2018
+Bapatla,Sandy Loam,1122,Groundnut,Kharif,99496,162178,1.63,2018
+Bapatla,Sandy Loam,590,Cotton,Kharif,145088,375777,2.59,2018
+Bapatla,Sandy Loam,602,Millets,Kharif,144622,177885,1.23,2018
+Bapatla,Sandy Loam,955,Pulses,Rabi,83739,120584,1.44,2018
+Bapatla,Sandy Loam,776,Tomato,Rabi,94248,3251556,34.5,2018
+Bapatla,Sandy Loam,643,Chilli,Rabi,135811,497068,3.66,2018
+Bapatla,Sandy Loam,589,Sugarcane,Annual,24999,1974671,78.99,2018
+Anantapur,Red Soil,966,Rice,Kharif,106503,489913,4.6,2019
+Anantapur,Red Soil,524,Maize,Rabi,46652,228128,4.89,2019
+Anantapur,Red Soil,940,Groundnut,Kharif,10603,18131,1.71,2019
+Anantapur,Red Soil,770,Cotton,Kharif,109754,221703,2.02,2019
+Anantapur,Red Soil,791,Millets,Kharif,21432,31719,1.48,2019
+Anantapur,Red Soil,528,Pulses,Rabi,87735,140376,1.6,2019
+Anantapur,Red Soil,1144,Tomato,Rabi,72790,2157495,29.64,2019
+Anantapur,Red Soil,1079,Chilli,Rabi,26726,82850,3.1,2019
+Anantapur,Red Soil,1033,Sugarcane,Annual,66872,4695083,70.21,2019
+Chittoor,Red Soil,976,Rice,Kharif,96092,408391,4.25,2019
+Chittoor,Red Soil,860,Maize,Rabi,140601,645358,4.59,2019
+Chittoor,Red Soil,734,Groundnut,Kharif,95275,191502,2.01,2019
+Chittoor,Red Soil,1161,Cotton,Kharif,40433,102699,2.54,2019
+Chittoor,Red Soil,601,Millets,Kharif,98658,122335,1.24,2019
+Chittoor,Red Soil,721,Pulses,Rabi,87411,125871,1.44,2019
+Chittoor,Red Soil,583,Tomato,Rabi,133228,2843085,21.34,2019
+Chittoor,Red Soil,766,Chilli,Rabi,127142,423382,3.33,2019
+Chittoor,Red Soil,754,Sugarcane,Annual,34299,2457180,71.64,2019
+Guntur,Clay Loam,1004,Rice,Kharif,20748,105814,5.1,2019
+Guntur,Clay Loam,516,Maize,Rabi,88343,423162,4.79,2019
+Guntur,Clay Loam,604,Groundnut,Kharif,47713,99720,2.09,2019
+Guntur,Clay Loam,906,Cotton,Kharif,111088,246615,2.22,2019
+Guntur,Clay Loam,1078,Millets,Kharif,89181,135555,1.52,2019
+Guntur,Clay Loam,806,Pulses,Rabi,137555,180197,1.31,2019
+Guntur,Clay Loam,1192,Tomato,Rabi,76698,2511859,32.75,2019
+Guntur,Clay Loam,644,Chilli,Rabi,117044,316018,2.7,2019
+Guntur,Clay Loam,874,Sugarcane,Annual,40722,3184867,78.21,2019
+Krishna,Clay Loam,681,Rice,Kharif,7306,36237,4.96,2019
+Krishna,Clay Loam,1189,Maize,Rabi,34356,142920,4.16,2019
+Krishna,Clay Loam,1099,Groundnut,Kharif,21872,42869,1.96,2019
+Krishna,Clay Loam,870,Cotton,Kharif,34383,81487,2.37,2019
+Krishna,Clay Loam,1083,Millets,Kharif,68156,87239,1.28,2019
+Krishna,Clay Loam,572,Pulses,Rabi,84471,87849,1.04,2019
+Krishna,Clay Loam,1022,Tomato,Rabi,29694,1005438,33.86,2019
+Krishna,Clay Loam,1193,Chilli,Rabi,5386,17450,3.24,2019
+Krishna,Clay Loam,961,Sugarcane,Annual,143378,11617919,81.03,2019
+East Godavari,Clay Soil,966,Rice,Kharif,36610,149368,4.08,2019
+East Godavari,Clay Soil,519,Maize,Rabi,34933,154403,4.42,2019
+East Godavari,Clay Soil,990,Groundnut,Kharif,73905,110857,1.5,2019
+East Godavari,Clay Soil,942,Cotton,Kharif,100676,196318,1.95,2019
+East Godavari,Clay Soil,783,Millets,Kharif,99406,120281,1.21,2019
+East Godavari,Clay Soil,665,Pulses,Rabi,5080,6197,1.22,2019
+East Godavari,Clay Soil,915,Tomato,Rabi,40754,1095467,26.88,2019
+East Godavari,Clay Soil,534,Chilli,Rabi,87240,348087,3.99,2019
+East Godavari,Clay Soil,885,Sugarcane,Annual,138090,12771944,92.49,2019
+West Godavari,Clay Soil,1012,Rice,Kharif,130853,669967,5.12,2019
+West Godavari,Clay Soil,797,Maize,Rabi,132709,557377,4.2,2019
+West Godavari,Clay Soil,1192,Groundnut,Kharif,19431,37501,1.93,2019
+West Godavari,Clay Soil,854,Cotton,Kharif,140304,307265,2.19,2019
+West Godavari,Clay Soil,777,Millets,Kharif,124697,203256,1.63,2019
+West Godavari,Clay Soil,1040,Pulses,Rabi,52590,80988,1.54,2019
+West Godavari,Clay Soil,659,Tomato,Rabi,103526,2442178,23.59,2019
+West Godavari,Clay Soil,1145,Chilli,Rabi,11712,35018,2.99,2019
+West Godavari,Clay Soil,1090,Sugarcane,Annual,68349,5066027,74.12,2019
+Prakasam,Red Soil,520,Rice,Kharif,122481,627102,5.12,2019
+Prakasam,Red Soil,1178,Maize,Rabi,55128,271229,4.92,2019
+Prakasam,Red Soil,1106,Groundnut,Kharif,55958,81139,1.45,2019
+Prakasam,Red Soil,841,Cotton,Kharif,134751,315317,2.34,2019
+Prakasam,Red Soil,913,Millets,Kharif,25415,41934,1.65,2019
+Prakasam,Red Soil,961,Pulses,Rabi,87012,115725,1.33,2019
+Prakasam,Red Soil,1137,Tomato,Rabi,30054,793425,26.4,2019
+Prakasam,Red Soil,607,Chilli,Rabi,29667,116294,3.92,2019
+Prakasam,Red Soil,995,Sugarcane,Annual,26408,2373286,89.87,2019
+Kadapa,Red Soil,1064,Rice,Kharif,118248,560495,4.74,2019
+Kadapa,Red Soil,604,Maize,Rabi,24713,100829,4.08,2019
+Kadapa,Red Soil,958,Groundnut,Kharif,22700,46534,2.05,2019
+Kadapa,Red Soil,513,Cotton,Kharif,66669,121337,1.82,2019
+Kadapa,Red Soil,735,Millets,Kharif,79887,127020,1.59,2019
+Kadapa,Red Soil,1162,Pulses,Rabi,118791,165119,1.39,2019
+Kadapa,Red Soil,851,Tomato,Rabi,95999,3359965,35.0,2019
+Kadapa,Red Soil,973,Chilli,Rabi,74733,233914,3.13,2019
+Kadapa,Red Soil,788,Sugarcane,Annual,134068,12701602,94.74,2019
+Nellore,Sandy Soil,1154,Rice,Kharif,127405,610269,4.79,2019
+Nellore,Sandy Soil,1086,Maize,Rabi,32300,150195,4.65,2019
+Nellore,Sandy Soil,805,Groundnut,Kharif,97602,213748,2.19,2019
+Nellore,Sandy Soil,862,Cotton,Kharif,103213,185783,1.8,2019
+Nellore,Sandy Soil,544,Millets,Kharif,121917,181656,1.49,2019
+Nellore,Sandy Soil,1200,Pulses,Rabi,30100,32508,1.08,2019
+Nellore,Sandy Soil,656,Tomato,Rabi,119275,3577057,29.99,2019
+Nellore,Sandy Soil,1015,Chilli,Rabi,139876,510547,3.65,2019
+Nellore,Sandy Soil,785,Sugarcane,Annual,148325,13548005,91.34,2019
+Visakhapatnam,Laterite Soil,709,Rice,Kharif,142254,597466,4.2,2019
+Visakhapatnam,Laterite Soil,1164,Maize,Rabi,49442,227433,4.6,2019
+Visakhapatnam,Laterite Soil,867,Groundnut,Kharif,80829,130134,1.61,2019
+Visakhapatnam,Laterite Soil,1042,Cotton,Kharif,48139,116977,2.43,2019
+Visakhapatnam,Laterite Soil,811,Millets,Kharif,7400,10952,1.48,2019
+Visakhapatnam,Laterite Soil,957,Pulses,Rabi,142510,195238,1.37,2019
+Visakhapatnam,Laterite Soil,1188,Tomato,Rabi,100419,2489387,24.79,2019
+Visakhapatnam,Laterite Soil,778,Chilli,Rabi,116442,303913,2.61,2019
+Visakhapatnam,Laterite Soil,952,Sugarcane,Annual,138225,12184533,88.15,2019
+Vizianagaram,Red Loam,903,Rice,Kharif,26324,126091,4.79,2019
+Vizianagaram,Red Loam,1146,Maize,Rabi,92762,370120,3.99,2019
+Vizianagaram,Red Loam,922,Groundnut,Kharif,51622,104276,2.02,2019
+Vizianagaram,Red Loam,699,Cotton,Kharif,91992,202382,2.2,2019
+Vizianagaram,Red Loam,704,Millets,Kharif,75726,102230,1.35,2019
+Vizianagaram,Red Loam,679,Pulses,Rabi,30821,36676,1.19,2019
+Vizianagaram,Red Loam,1162,Tomato,Rabi,115680,3638136,31.45,2019
+Vizianagaram,Red Loam,862,Chilli,Rabi,78177,311926,3.99,2019
+Vizianagaram,Red Loam,627,Sugarcane,Annual,99011,7198099,72.7,2019
+Srikakulam,Red Loam,1195,Rice,Kharif,111540,480737,4.31,2019
+Srikakulam,Red Loam,703,Maize,Rabi,129284,492572,3.81,2019
+Srikakulam,Red Loam,1147,Groundnut,Kharif,86551,163581,1.89,2019
+Srikakulam,Red Loam,502,Cotton,Kharif,70566,176415,2.5,2019
+Srikakulam,Red Loam,995,Millets,Kharif,25567,38606,1.51,2019
+Srikakulam,Red Loam,938,Pulses,Rabi,31138,38611,1.24,2019
+Srikakulam,Red Loam,1188,Tomato,Rabi,114353,3420298,29.91,2019
+Srikakulam,Red Loam,1115,Chilli,Rabi,148191,558680,3.77,2019
+Srikakulam,Red Loam,915,Sugarcane,Annual,49335,3647829,73.94,2019
+Kurnool,Black Soil,934,Rice,Kharif,148350,642355,4.33,2019
+Kurnool,Black Soil,769,Maize,Rabi,13978,56610,4.05,2019
+Kurnool,Black Soil,1056,Groundnut,Kharif,67019,115272,1.72,2019
+Kurnool,Black Soil,717,Cotton,Kharif,63599,173625,2.73,2019
+Kurnool,Black Soil,578,Millets,Kharif,79218,103775,1.31,2019
+Kurnool,Black Soil,512,Pulses,Rabi,69574,98099,1.41,2019
+Kurnool,Black Soil,1004,Tomato,Rabi,5011,112246,22.4,2019
+Kurnool,Black Soil,1126,Chilli,Rabi,128657,478604,3.72,2019
+Kurnool,Black Soil,750,Sugarcane,Annual,134012,9764114,72.86,2019
+Eluru,Clay Loam,1006,Rice,Kharif,135466,651591,4.81,2019
+Eluru,Clay Loam,712,Maize,Rabi,96370,400899,4.16,2019
+Eluru,Clay Loam,1052,Groundnut,Kharif,143605,221151,1.54,2019
+Eluru,Clay Loam,963,Cotton,Kharif,117758,249646,2.12,2019
+Eluru,Clay Loam,1159,Millets,Kharif,59964,79152,1.32,2019
+Eluru,Clay Loam,856,Pulses,Rabi,48758,77525,1.59,2019
+Eluru,Clay Loam,667,Tomato,Rabi,6015,190194,31.62,2019
+Eluru,Clay Loam,1090,Chilli,Rabi,33315,93282,2.8,2019
+Eluru,Clay Loam,556,Sugarcane,Annual,7352,646755,87.97,2019
+Bapatla,Sandy Loam,866,Rice,Kharif,44439,201308,4.53,2019
+Bapatla,Sandy Loam,680,Maize,Rabi,140227,642239,4.58,2019
+Bapatla,Sandy Loam,1179,Groundnut,Kharif,30831,55495,1.8,2019
+Bapatla,Sandy Loam,656,Cotton,Kharif,47095,117737,2.5,2019
+Bapatla,Sandy Loam,610,Millets,Kharif,70434,96494,1.37,2019
+Bapatla,Sandy Loam,734,Pulses,Rabi,103067,137079,1.33,2019
+Bapatla,Sandy Loam,518,Tomato,Rabi,21479,493157,22.96,2019
+Bapatla,Sandy Loam,977,Chilli,Rabi,93151,256165,2.75,2019
+Bapatla,Sandy Loam,661,Sugarcane,Annual,81504,7185392,88.16,2019
+Anantapur,Red Soil,1133,Rice,Kharif,57270,250842,4.38,2020
+Anantapur,Red Soil,951,Maize,Rabi,93312,390044,4.18,2020
+Anantapur,Red Soil,681,Groundnut,Kharif,102925,183206,1.78,2020
+Anantapur,Red Soil,1152,Cotton,Kharif,74692,173285,2.32,2020
+Anantapur,Red Soil,923,Millets,Kharif,106455,141585,1.33,2020
+Anantapur,Red Soil,873,Pulses,Rabi,149508,173429,1.16,2020
+Anantapur,Red Soil,873,Tomato,Rabi,43251,1397007,32.3,2020
+Anantapur,Red Soil,1109,Chilli,Rabi,138654,407642,2.94,2020
+Anantapur,Red Soil,625,Sugarcane,Annual,29959,2521049,84.15,2020
+Chittoor,Red Soil,629,Rice,Kharif,19679,95443,4.85,2020
+Chittoor,Red Soil,1004,Maize,Rabi,78061,390305,5.0,2020
+Chittoor,Red Soil,959,Groundnut,Kharif,108847,217694,2.0,2020
+Chittoor,Red Soil,811,Cotton,Kharif,134516,320148,2.38,2020
+Chittoor,Red Soil,603,Millets,Kharif,29891,50515,1.69,2020
+Chittoor,Red Soil,983,Pulses,Rabi,42524,60384,1.42,2020
+Chittoor,Red Soil,826,Tomato,Rabi,104948,3655338,34.83,2020
+Chittoor,Red Soil,840,Chilli,Rabi,73134,244998,3.35,2020
+Chittoor,Red Soil,938,Sugarcane,Annual,55759,5045074,90.48,2020
+Guntur,Clay Loam,731,Rice,Kharif,93839,455119,4.85,2020
+Guntur,Clay Loam,847,Maize,Rabi,63440,270254,4.26,2020
+Guntur,Clay Loam,738,Groundnut,Kharif,21914,34185,1.56,2020
+Guntur,Clay Loam,639,Cotton,Kharif,29615,62487,2.11,2020
+Guntur,Clay Loam,1138,Millets,Kharif,104369,125242,1.2,2020
+Guntur,Clay Loam,806,Pulses,Rabi,26909,37134,1.38,2020
+Guntur,Clay Loam,942,Tomato,Rabi,58032,1579050,27.21,2020
+Guntur,Clay Loam,680,Chilli,Rabi,137937,400017,2.9,2020
+Guntur,Clay Loam,1099,Sugarcane,Annual,104111,7635500,73.34,2020
+Krishna,Clay Loam,581,Rice,Kharif,20036,86154,4.3,2020
+Krishna,Clay Loam,1135,Maize,Rabi,69437,334686,4.82,2020
+Krishna,Clay Loam,515,Groundnut,Kharif,60831,130178,2.14,2020
+Krishna,Clay Loam,613,Cotton,Kharif,131724,305599,2.32,2020
+Krishna,Clay Loam,1087,Millets,Kharif,71971,126668,1.76,2020
+Krishna,Clay Loam,707,Pulses,Rabi,66633,69298,1.04,2020
+Krishna,Clay Loam,1161,Tomato,Rabi,74914,2206217,29.45,2020
+Krishna,Clay Loam,623,Chilli,Rabi,88801,241538,2.72,2020
+Krishna,Clay Loam,1194,Sugarcane,Annual,66195,6037645,91.21,2020
+East Godavari,Clay Soil,1056,Rice,Kharif,88851,421153,4.74,2020
+East Godavari,Clay Soil,560,Maize,Rabi,48092,190925,3.97,2020
+East Godavari,Clay Soil,532,Groundnut,Kharif,106846,210486,1.97,2020
+East Godavari,Clay Soil,851,Cotton,Kharif,141089,337202,2.39,2020
+East Godavari,Clay Soil,692,Millets,Kharif,144921,189846,1.31,2020
+East Godavari,Clay Soil,1113,Pulses,Rabi,137124,215284,1.57,2020
+East Godavari,Clay Soil,693,Tomato,Rabi,141233,3619801,25.63,2020
+East Godavari,Clay Soil,744,Chilli,Rabi,140285,559737,3.99,2020
+East Godavari,Clay Soil,959,Sugarcane,Annual,85327,7688815,90.11,2020
+West Godavari,Clay Soil,1122,Rice,Kharif,148321,605149,4.08,2020
+West Godavari,Clay Soil,642,Maize,Rabi,83506,377447,4.52,2020
+West Godavari,Clay Soil,789,Groundnut,Kharif,69400,108958,1.57,2020
+West Godavari,Clay Soil,926,Cotton,Kharif,91511,217796,2.38,2020
+West Godavari,Clay Soil,768,Millets,Kharif,94772,141210,1.49,2020
+West Godavari,Clay Soil,748,Pulses,Rabi,67956,83585,1.23,2020
+West Godavari,Clay Soil,686,Tomato,Rabi,110320,2333268,21.15,2020
+West Godavari,Clay Soil,1055,Chilli,Rabi,116354,386295,3.32,2020
+West Godavari,Clay Soil,841,Sugarcane,Annual,23375,1940826,83.03,2020
+Prakasam,Red Soil,993,Rice,Kharif,29691,142516,4.8,2020
+Prakasam,Red Soil,696,Maize,Rabi,68702,290609,4.23,2020
+Prakasam,Red Soil,1123,Groundnut,Kharif,131454,201124,1.53,2020
+Prakasam,Red Soil,1197,Cotton,Kharif,134426,243311,1.81,2020
+Prakasam,Red Soil,625,Millets,Kharif,60508,73819,1.22,2020
+Prakasam,Red Soil,925,Pulses,Rabi,101363,135826,1.34,2020
+Prakasam,Red Soil,899,Tomato,Rabi,60891,1885185,30.96,2020
+Prakasam,Red Soil,954,Chilli,Rabi,17188,66173,3.85,2020
+Prakasam,Red Soil,882,Sugarcane,Annual,22678,2001787,88.27,2020
+Kadapa,Red Soil,950,Rice,Kharif,75935,325761,4.29,2020
+Kadapa,Red Soil,576,Maize,Rabi,25080,97310,3.88,2020
+Kadapa,Red Soil,928,Groundnut,Kharif,27309,57621,2.11,2020
+Kadapa,Red Soil,853,Cotton,Kharif,30304,77275,2.55,2020
+Kadapa,Red Soil,911,Millets,Kharif,33161,55378,1.67,2020
+Kadapa,Red Soil,1184,Pulses,Rabi,20969,32082,1.53,2020
+Kadapa,Red Soil,541,Tomato,Rabi,58203,2023718,34.77,2020
+Kadapa,Red Soil,979,Chilli,Rabi,29180,91041,3.12,2020
+Kadapa,Red Soil,754,Sugarcane,Annual,102398,8714069,85.1,2020
+Nellore,Sandy Soil,653,Rice,Kharif,71875,367281,5.11,2020
+Nellore,Sandy Soil,724,Maize,Rabi,10649,52393,4.92,2020
+Nellore,Sandy Soil,1079,Groundnut,Kharif,144033,302469,2.1,2020
+Nellore,Sandy Soil,1076,Cotton,Kharif,108179,268283,2.48,2020
+Nellore,Sandy Soil,725,Millets,Kharif,9679,16744,1.73,2020
+Nellore,Sandy Soil,744,Pulses,Rabi,102274,113524,1.11,2020
+Nellore,Sandy Soil,529,Tomato,Rabi,139126,3653448,26.26,2020
+Nellore,Sandy Soil,511,Chilli,Rabi,74764,223544,2.99,2020
+Nellore,Sandy Soil,746,Sugarcane,Annual,59046,5044299,85.43,2020
+Visakhapatnam,Laterite Soil,1022,Rice,Kharif,86036,361351,4.2,2020
+Visakhapatnam,Laterite Soil,995,Maize,Rabi,53850,267096,4.96,2020
+Visakhapatnam,Laterite Soil,1003,Groundnut,Kharif,121335,263296,2.17,2020
+Visakhapatnam,Laterite Soil,927,Cotton,Kharif,82069,166600,2.03,2020
+Visakhapatnam,Laterite Soil,929,Millets,Kharif,21225,37568,1.77,2020
+Visakhapatnam,Laterite Soil,675,Pulses,Rabi,9271,12886,1.39,2020
+Visakhapatnam,Laterite Soil,983,Tomato,Rabi,71244,1941399,27.25,2020
+Visakhapatnam,Laterite Soil,677,Chilli,Rabi,84142,244853,2.91,2020
+Visakhapatnam,Laterite Soil,513,Sugarcane,Annual,136170,11238110,82.53,2020
+Vizianagaram,Red Loam,866,Rice,Kharif,40555,177630,4.38,2020
+Vizianagaram,Red Loam,957,Maize,Rabi,124319,543274,4.37,2020
+Vizianagaram,Red Loam,752,Groundnut,Kharif,100660,160049,1.59,2020
+Vizianagaram,Red Loam,1184,Cotton,Kharif,97032,237728,2.45,2020
+Vizianagaram,Red Loam,1001,Millets,Kharif,63179,106772,1.69,2020
+Vizianagaram,Red Loam,530,Pulses,Rabi,83529,132811,1.59,2020
+Vizianagaram,Red Loam,547,Tomato,Rabi,17056,422988,24.8,2020
+Vizianagaram,Red Loam,1081,Chilli,Rabi,110086,324753,2.95,2020
+Vizianagaram,Red Loam,776,Sugarcane,Annual,124992,10544325,84.36,2020
+Srikakulam,Red Loam,779,Rice,Kharif,26731,125903,4.71,2020
+Srikakulam,Red Loam,554,Maize,Rabi,138252,615221,4.45,2020
+Srikakulam,Red Loam,875,Groundnut,Kharif,53767,83338,1.55,2020
+Srikakulam,Red Loam,756,Cotton,Kharif,114466,272429,2.38,2020
+Srikakulam,Red Loam,586,Millets,Kharif,133123,206340,1.55,2020
+Srikakulam,Red Loam,954,Pulses,Rabi,80998,103677,1.28,2020
+Srikakulam,Red Loam,792,Tomato,Rabi,38379,1302967,33.95,2020
+Srikakulam,Red Loam,598,Chilli,Rabi,61319,212776,3.47,2020
+Srikakulam,Red Loam,712,Sugarcane,Annual,144154,11783147,81.74,2020
+Kurnool,Black Soil,589,Rice,Kharif,63798,287728,4.51,2020
+Kurnool,Black Soil,751,Maize,Rabi,67490,269285,3.99,2020
+Kurnool,Black Soil,744,Groundnut,Kharif,126011,223039,1.77,2020
+Kurnool,Black Soil,562,Cotton,Kharif,98612,258363,2.62,2020
+Kurnool,Black Soil,1015,Millets,Kharif,53400,73158,1.37,2020
+Kurnool,Black Soil,1086,Pulses,Rabi,137378,189581,1.38,2020
+Kurnool,Black Soil,512,Tomato,Rabi,103928,3142782,30.24,2020
+Kurnool,Black Soil,670,Chilli,Rabi,14647,53461,3.65,2020
+Kurnool,Black Soil,619,Sugarcane,Annual,68092,5455531,80.12,2020
+Eluru,Clay Loam,551,Rice,Kharif,70191,305330,4.35,2020
+Eluru,Clay Loam,825,Maize,Rabi,92455,366121,3.96,2020
+Eluru,Clay Loam,547,Groundnut,Kharif,52066,84346,1.62,2020
+Eluru,Clay Loam,579,Cotton,Kharif,56309,154286,2.74,2020
+Eluru,Clay Loam,965,Millets,Kharif,37542,64196,1.71,2020
+Eluru,Clay Loam,1185,Pulses,Rabi,100430,151649,1.51,2020
+Eluru,Clay Loam,1152,Tomato,Rabi,89015,1969011,22.12,2020
+Eluru,Clay Loam,1106,Chilli,Rabi,16924,65665,3.88,2020
+Eluru,Clay Loam,509,Sugarcane,Annual,99877,9414406,94.26,2020
+Bapatla,Sandy Loam,500,Rice,Kharif,8261,39074,4.73,2020
+Bapatla,Sandy Loam,684,Maize,Rabi,74254,369784,4.98,2020
+Bapatla,Sandy Loam,574,Groundnut,Kharif,88420,132630,1.5,2020
+Bapatla,Sandy Loam,594,Cotton,Kharif,28686,57945,2.02,2020
+Bapatla,Sandy Loam,1090,Millets,Kharif,86294,134618,1.56,2020
+Bapatla,Sandy Loam,1140,Pulses,Rabi,49051,57389,1.17,2020
+Bapatla,Sandy Loam,1096,Tomato,Rabi,93615,2137230,22.83,2020
+Bapatla,Sandy Loam,598,Chilli,Rabi,49380,174805,3.54,2020
+Bapatla,Sandy Loam,834,Sugarcane,Annual,122816,9248044,75.3,2020
+Anantapur,Red Soil,1168,Rice,Kharif,41480,189978,4.58,2021
+Anantapur,Red Soil,1168,Maize,Rabi,61677,274462,4.45,2021
+Anantapur,Red Soil,620,Groundnut,Kharif,13697,27394,2.0,2021
+Anantapur,Red Soil,754,Cotton,Kharif,97657,190431,1.95,2021
+Anantapur,Red Soil,878,Millets,Kharif,20326,31302,1.54,2021
+Anantapur,Red Soil,610,Pulses,Rabi,144474,184926,1.28,2021
+Anantapur,Red Soil,905,Tomato,Rabi,126386,3883841,30.73,2021
+Anantapur,Red Soil,556,Chilli,Rabi,94987,296359,3.12,2021
+Anantapur,Red Soil,733,Sugarcane,Annual,78880,5549996,70.36,2021
+Chittoor,Red Soil,570,Rice,Kharif,40523,205856,5.08,2021
+Chittoor,Red Soil,514,Maize,Rabi,132934,614155,4.62,2021
+Chittoor,Red Soil,972,Groundnut,Kharif,90182,137076,1.52,2021
+Chittoor,Red Soil,656,Cotton,Kharif,70353,147037,2.09,2021
+Chittoor,Red Soil,655,Millets,Kharif,85546,132596,1.55,2021
+Chittoor,Red Soil,1047,Pulses,Rabi,132990,138309,1.04,2021
+Chittoor,Red Soil,678,Tomato,Rabi,10344,211121,20.41,2021
+Chittoor,Red Soil,991,Chilli,Rabi,144203,507594,3.52,2021
+Chittoor,Red Soil,696,Sugarcane,Annual,141754,11684782,82.43,2021
+Guntur,Clay Loam,789,Rice,Kharif,147012,698307,4.75,2021
+Guntur,Clay Loam,865,Maize,Rabi,74650,359066,4.81,2021
+Guntur,Clay Loam,999,Groundnut,Kharif,61285,101733,1.66,2021
+Guntur,Clay Loam,714,Cotton,Kharif,77846,210184,2.7,2021
+Guntur,Clay Loam,660,Millets,Kharif,61230,80823,1.32,2021
+Guntur,Clay Loam,1109,Pulses,Rabi,111503,146068,1.31,2021
+Guntur,Clay Loam,815,Tomato,Rabi,55948,1629765,29.13,2021
+Guntur,Clay Loam,961,Chilli,Rabi,78080,292800,3.75,2021
+Guntur,Clay Loam,814,Sugarcane,Annual,77424,6060750,78.28,2021
+Krishna,Clay Loam,683,Rice,Kharif,149613,632862,4.23,2021
+Krishna,Clay Loam,611,Maize,Rabi,101340,457043,4.51,2021
+Krishna,Clay Loam,708,Groundnut,Kharif,60111,117216,1.95,2021
+Krishna,Clay Loam,613,Cotton,Kharif,53622,143170,2.67,2021
+Krishna,Clay Loam,550,Millets,Kharif,9346,15607,1.67,2021
+Krishna,Clay Loam,1135,Pulses,Rabi,127945,189358,1.48,2021
+Krishna,Clay Loam,1054,Tomato,Rabi,50812,1753522,34.51,2021
+Krishna,Clay Loam,1030,Chilli,Rabi,112103,433838,3.87,2021
+Krishna,Clay Loam,871,Sugarcane,Annual,117476,10307344,87.74,2021
+East Godavari,Clay Soil,603,Rice,Kharif,110997,567194,5.11,2021
+East Godavari,Clay Soil,712,Maize,Rabi,15247,59158,3.88,2021
+East Godavari,Clay Soil,1109,Groundnut,Kharif,148946,250229,1.68,2021
+East Godavari,Clay Soil,599,Cotton,Kharif,30975,55755,1.8,2021
+East Godavari,Clay Soil,541,Millets,Kharif,140539,174268,1.24,2021
+East Godavari,Clay Soil,715,Pulses,Rabi,71957,87067,1.21,2021
+East Godavari,Clay Soil,1175,Tomato,Rabi,133936,3440815,25.69,2021
+East Godavari,Clay Soil,785,Chilli,Rabi,73726,252880,3.43,2021
+East Godavari,Clay Soil,697,Sugarcane,Annual,134590,11383622,84.58,2021
+West Godavari,Clay Soil,1158,Rice,Kharif,94856,445823,4.7,2021
+West Godavari,Clay Soil,805,Maize,Rabi,107939,476010,4.41,2021
+West Godavari,Clay Soil,1108,Groundnut,Kharif,37797,66900,1.77,2021
+West Godavari,Clay Soil,716,Cotton,Kharif,107058,293338,2.74,2021
+West Godavari,Clay Soil,560,Millets,Kharif,93007,119048,1.28,2021
+West Godavari,Clay Soil,997,Pulses,Rabi,78575,90361,1.15,2021
+West Godavari,Clay Soil,1159,Tomato,Rabi,19854,610510,30.75,2021
+West Godavari,Clay Soil,750,Chilli,Rabi,36028,125737,3.49,2021
+West Godavari,Clay Soil,991,Sugarcane,Annual,69056,6315171,91.45,2021
+Prakasam,Red Soil,797,Rice,Kharif,80563,414899,5.15,2021
+Prakasam,Red Soil,904,Maize,Rabi,135819,623409,4.59,2021
+Prakasam,Red Soil,680,Groundnut,Kharif,38832,64072,1.65,2021
+Prakasam,Red Soil,1046,Cotton,Kharif,87078,170672,1.96,2021
+Prakasam,Red Soil,929,Millets,Kharif,18651,25365,1.36,2021
+Prakasam,Red Soil,1151,Pulses,Rabi,129797,203781,1.57,2021
+Prakasam,Red Soil,646,Tomato,Rabi,20067,488832,24.36,2021
+Prakasam,Red Soil,1065,Chilli,Rabi,22005,66895,3.04,2021
+Prakasam,Red Soil,787,Sugarcane,Annual,134319,11305630,84.17,2021
+Kadapa,Red Soil,1165,Rice,Kharif,124091,569577,4.59,2021
+Kadapa,Red Soil,972,Maize,Rabi,7053,32655,4.63,2021
+Kadapa,Red Soil,528,Groundnut,Kharif,118483,212084,1.79,2021
+Kadapa,Red Soil,736,Cotton,Kharif,140232,293084,2.09,2021
+Kadapa,Red Soil,609,Millets,Kharif,59026,86768,1.47,2021
+Kadapa,Red Soil,713,Pulses,Rabi,23608,25024,1.06,2021
+Kadapa,Red Soil,856,Tomato,Rabi,144823,4088353,28.23,2021
+Kadapa,Red Soil,797,Chilli,Rabi,128485,330206,2.57,2021
+Kadapa,Red Soil,1102,Sugarcane,Annual,35571,2639368,74.2,2021
+Nellore,Sandy Soil,948,Rice,Kharif,127530,618520,4.85,2021
+Nellore,Sandy Soil,628,Maize,Rabi,12079,57979,4.8,2021
+Nellore,Sandy Soil,1137,Groundnut,Kharif,12250,26215,2.14,2021
+Nellore,Sandy Soil,1179,Cotton,Kharif,125810,244071,1.94,2021
+Nellore,Sandy Soil,777,Millets,Kharif,101012,181821,1.8,2021
+Nellore,Sandy Soil,634,Pulses,Rabi,137903,188927,1.37,2021
+Nellore,Sandy Soil,790,Tomato,Rabi,20018,431387,21.55,2021
+Nellore,Sandy Soil,781,Chilli,Rabi,149154,407190,2.73,2021
+Nellore,Sandy Soil,998,Sugarcane,Annual,28811,2655797,92.18,2021
+Visakhapatnam,Laterite Soil,1128,Rice,Kharif,17912,82036,4.58,2021
+Visakhapatnam,Laterite Soil,1037,Maize,Rabi,30418,128363,4.22,2021
+Visakhapatnam,Laterite Soil,522,Groundnut,Kharif,89093,147003,1.65,2021
+Visakhapatnam,Laterite Soil,852,Cotton,Kharif,80016,198439,2.48,2021
+Visakhapatnam,Laterite Soil,915,Millets,Kharif,61722,106779,1.73,2021
+Visakhapatnam,Laterite Soil,935,Pulses,Rabi,132598,190941,1.44,2021
+Visakhapatnam,Laterite Soil,571,Tomato,Rabi,69360,1843588,26.58,2021
+Visakhapatnam,Laterite Soil,909,Chilli,Rabi,128674,456792,3.55,2021
+Visakhapatnam,Laterite Soil,583,Sugarcane,Annual,128541,12093137,94.08,2021
+Vizianagaram,Red Loam,856,Rice,Kharif,88149,371988,4.22,2021
+Vizianagaram,Red Loam,763,Maize,Rabi,45489,207884,4.57,2021
+Vizianagaram,Red Loam,950,Groundnut,Kharif,123572,177943,1.44,2021
+Vizianagaram,Red Loam,806,Cotton,Kharif,9960,21314,2.14,2021
+Vizianagaram,Red Loam,623,Millets,Kharif,31797,47059,1.48,2021
+Vizianagaram,Red Loam,602,Pulses,Rabi,102157,162429,1.59,2021
+Vizianagaram,Red Loam,758,Tomato,Rabi,127793,3389070,26.52,2021
+Vizianagaram,Red Loam,1000,Chilli,Rabi,21755,78100,3.59,2021
+Vizianagaram,Red Loam,1069,Sugarcane,Annual,123040,10674950,86.76,2021
+Srikakulam,Red Loam,1190,Rice,Kharif,19134,94713,4.95,2021
+Srikakulam,Red Loam,1125,Maize,Rabi,51909,259545,5.0,2021
+Srikakulam,Red Loam,920,Groundnut,Kharif,136722,243365,1.78,2021
+Srikakulam,Red Loam,763,Cotton,Kharif,65431,138059,2.11,2021
+Srikakulam,Red Loam,948,Millets,Kharif,24165,37455,1.55,2021
+Srikakulam,Red Loam,504,Pulses,Rabi,55178,56833,1.03,2021
+Srikakulam,Red Loam,1099,Tomato,Rabi,54122,1530028,28.27,2021
+Srikakulam,Red Loam,523,Chilli,Rabi,62526,216965,3.47,2021
+Srikakulam,Red Loam,1173,Sugarcane,Annual,55574,4005773,72.08,2021
+Kurnool,Black Soil,887,Rice,Kharif,118043,551260,4.67,2021
+Kurnool,Black Soil,1190,Maize,Rabi,75965,359314,4.73,2021
+Kurnool,Black Soil,629,Groundnut,Kharif,8537,18354,2.15,2021
+Kurnool,Black Soil,645,Cotton,Kharif,94097,200426,2.13,2021
+Kurnool,Black Soil,836,Millets,Kharif,139484,225964,1.62,2021
+Kurnool,Black Soil,1140,Pulses,Rabi,5934,6883,1.16,2021
+Kurnool,Black Soil,1028,Tomato,Rabi,127596,3314944,25.98,2021
+Kurnool,Black Soil,626,Chilli,Rabi,49361,156967,3.18,2021
+Kurnool,Black Soil,1031,Sugarcane,Annual,37862,3026309,79.93,2021
+Eluru,Clay Loam,875,Rice,Kharif,119503,532983,4.46,2021
+Eluru,Clay Loam,819,Maize,Rabi,17090,78955,4.62,2021
+Eluru,Clay Loam,1181,Groundnut,Kharif,35634,74118,2.08,2021
+Eluru,Clay Loam,650,Cotton,Kharif,131989,250779,1.9,2021
+Eluru,Clay Loam,503,Millets,Kharif,45174,60081,1.33,2021
+Eluru,Clay Loam,734,Pulses,Rabi,130536,169696,1.3,2021
+Eluru,Clay Loam,704,Tomato,Rabi,87283,2621981,30.04,2021
+Eluru,Clay Loam,728,Chilli,Rabi,47948,157748,3.29,2021
+Eluru,Clay Loam,1026,Sugarcane,Annual,61665,5600415,90.82,2021
+Bapatla,Sandy Loam,688,Rice,Kharif,82877,397809,4.8,2021
+Bapatla,Sandy Loam,1090,Maize,Rabi,127635,557764,4.37,2021
+Bapatla,Sandy Loam,989,Groundnut,Kharif,59119,103458,1.75,2021
+Bapatla,Sandy Loam,887,Cotton,Kharif,95957,203428,2.12,2021
+Bapatla,Sandy Loam,1050,Millets,Kharif,117346,198314,1.69,2021
+Bapatla,Sandy Loam,838,Pulses,Rabi,147054,180876,1.23,2021
+Bapatla,Sandy Loam,1009,Tomato,Rabi,126201,2980867,23.62,2021
+Bapatla,Sandy Loam,1126,Chilli,Rabi,147803,421238,2.85,2021
+Bapatla,Sandy Loam,1078,Sugarcane,Annual,27743,2250512,81.12,2021
+Anantapur,Red Soil,610,Rice,Kharif,59823,256640,4.29,2022
+Anantapur,Red Soil,791,Maize,Rabi,136987,678085,4.95,2022
+Anantapur,Red Soil,1119,Groundnut,Kharif,128197,273059,2.13,2022
+Anantapur,Red Soil,962,Cotton,Kharif,5258,11094,2.11,2022
+Anantapur,Red Soil,767,Millets,Kharif,91742,126603,1.38,2022
+Anantapur,Red Soil,622,Pulses,Rabi,116248,160422,1.38,2022
+Anantapur,Red Soil,1186,Tomato,Rabi,144489,4713231,32.62,2022
+Anantapur,Red Soil,818,Chilli,Rabi,110462,342432,3.1,2022
+Anantapur,Red Soil,863,Sugarcane,Annual,104113,9779334,93.93,2022
+Chittoor,Red Soil,1014,Rice,Kharif,27332,123813,4.53,2022
+Chittoor,Red Soil,1125,Maize,Rabi,132940,658053,4.95,2022
+Chittoor,Red Soil,586,Groundnut,Kharif,124017,204628,1.65,2022
+Chittoor,Red Soil,654,Cotton,Kharif,71559,180328,2.52,2022
+Chittoor,Red Soil,1104,Millets,Kharif,35165,53450,1.52,2022
+Chittoor,Red Soil,689,Pulses,Rabi,87510,105012,1.2,2022
+Chittoor,Red Soil,642,Tomato,Rabi,27758,650369,23.43,2022
+Chittoor,Red Soil,690,Chilli,Rabi,41421,161541,3.9,2022
+Chittoor,Red Soil,627,Sugarcane,Annual,75640,6703973,88.63,2022
+Guntur,Clay Loam,1066,Rice,Kharif,130527,640887,4.91,2022
+Guntur,Clay Loam,663,Maize,Rabi,51065,233367,4.57,2022
+Guntur,Clay Loam,762,Groundnut,Kharif,117149,171037,1.46,2022
+Guntur,Clay Loam,981,Cotton,Kharif,29604,82299,2.78,2022
+Guntur,Clay Loam,1159,Millets,Kharif,17950,23514,1.31,2022
+Guntur,Clay Loam,756,Pulses,Rabi,112418,175372,1.56,2022
+Guntur,Clay Loam,689,Tomato,Rabi,11885,392442,33.02,2022
+Guntur,Clay Loam,555,Chilli,Rabi,122800,330332,2.69,2022
+Guntur,Clay Loam,1069,Sugarcane,Annual,41371,3674158,88.81,2022
+Krishna,Clay Loam,850,Rice,Kharif,126757,647728,5.11,2022
+Krishna,Clay Loam,1151,Maize,Rabi,63999,278395,4.35,2022
+Krishna,Clay Loam,1076,Groundnut,Kharif,138299,282129,2.04,2022
+Krishna,Clay Loam,1060,Cotton,Kharif,129948,309276,2.38,2022
+Krishna,Clay Loam,990,Millets,Kharif,127125,218655,1.72,2022
+Krishna,Clay Loam,773,Pulses,Rabi,22896,25414,1.11,2022
+Krishna,Clay Loam,558,Tomato,Rabi,13110,357116,27.24,2022
+Krishna,Clay Loam,1096,Chilli,Rabi,127640,409724,3.21,2022
+Krishna,Clay Loam,875,Sugarcane,Annual,102279,8901341,87.03,2022
+East Godavari,Clay Soil,690,Rice,Kharif,68466,334798,4.89,2022
+East Godavari,Clay Soil,547,Maize,Rabi,85524,407949,4.77,2022
+East Godavari,Clay Soil,618,Groundnut,Kharif,134584,282626,2.1,2022
+East Godavari,Clay Soil,572,Cotton,Kharif,118652,321546,2.71,2022
+East Godavari,Clay Soil,725,Millets,Kharif,79620,136946,1.72,2022
+East Godavari,Clay Soil,985,Pulses,Rabi,146295,157998,1.08,2022
+East Godavari,Clay Soil,1107,Tomato,Rabi,101694,3154547,31.02,2022
+East Godavari,Clay Soil,1062,Chilli,Rabi,61490,158644,2.58,2022
+East Godavari,Clay Soil,927,Sugarcane,Annual,140382,10385460,73.98,2022
+West Godavari,Clay Soil,768,Rice,Kharif,22448,94057,4.19,2022
+West Godavari,Clay Soil,547,Maize,Rabi,135336,531870,3.93,2022
+West Godavari,Clay Soil,1099,Groundnut,Kharif,26241,56155,2.14,2022
+West Godavari,Clay Soil,1109,Cotton,Kharif,71400,158508,2.22,2022
+West Godavari,Clay Soil,533,Millets,Kharif,126304,203349,1.61,2022
+West Godavari,Clay Soil,1003,Pulses,Rabi,6696,7030,1.05,2022
+West Godavari,Clay Soil,959,Tomato,Rabi,123707,4141710,33.48,2022
+West Godavari,Clay Soil,1055,Chilli,Rabi,27231,96397,3.54,2022
+West Godavari,Clay Soil,739,Sugarcane,Annual,98490,8119515,82.44,2022
+Prakasam,Red Soil,996,Rice,Kharif,103969,500090,4.81,2022
+Prakasam,Red Soil,1047,Maize,Rabi,137405,590841,4.3,2022
+Prakasam,Red Soil,1074,Groundnut,Kharif,77696,114213,1.47,2022
+Prakasam,Red Soil,1050,Cotton,Kharif,11164,28579,2.56,2022
+Prakasam,Red Soil,958,Millets,Kharif,82214,99478,1.21,2022
+Prakasam,Red Soil,754,Pulses,Rabi,135662,158724,1.17,2022
+Prakasam,Red Soil,1016,Tomato,Rabi,136409,2889142,21.18,2022
+Prakasam,Red Soil,714,Chilli,Rabi,105919,364361,3.44,2022
+Prakasam,Red Soil,909,Sugarcane,Annual,112839,9290034,82.33,2022
+Kadapa,Red Soil,534,Rice,Kharif,144543,673570,4.66,2022
+Kadapa,Red Soil,880,Maize,Rabi,135051,552358,4.09,2022
+Kadapa,Red Soil,1033,Groundnut,Kharif,76664,164060,2.14,2022
+Kadapa,Red Soil,1170,Cotton,Kharif,65472,166298,2.54,2022
+Kadapa,Red Soil,987,Millets,Kharif,42667,73813,1.73,2022
+Kadapa,Red Soil,541,Pulses,Rabi,65622,93839,1.43,2022
+Kadapa,Red Soil,532,Tomato,Rabi,28601,962995,33.67,2022
+Kadapa,Red Soil,985,Chilli,Rabi,73679,235772,3.2,2022
+Kadapa,Red Soil,737,Sugarcane,Annual,104522,7441966,71.2,2022
+Nellore,Sandy Soil,589,Rice,Kharif,128505,524300,4.08,2022
+Nellore,Sandy Soil,944,Maize,Rabi,105684,440702,4.17,2022
+Nellore,Sandy Soil,1122,Groundnut,Kharif,98160,186504,1.9,2022
+Nellore,Sandy Soil,943,Cotton,Kharif,89069,218219,2.45,2022
+Nellore,Sandy Soil,833,Millets,Kharif,97764,169131,1.73,2022
+Nellore,Sandy Soil,689,Pulses,Rabi,21688,27977,1.29,2022
+Nellore,Sandy Soil,760,Tomato,Rabi,43854,1068721,24.37,2022
+Nellore,Sandy Soil,555,Chilli,Rabi,140256,500713,3.57,2022
+Nellore,Sandy Soil,970,Sugarcane,Annual,67837,5382865,79.35,2022
+Visakhapatnam,Laterite Soil,922,Rice,Kharif,13985,68666,4.91,2022
+Visakhapatnam,Laterite Soil,837,Maize,Rabi,135260,515340,3.81,2022
+Visakhapatnam,Laterite Soil,1046,Groundnut,Kharif,142705,264004,1.85,2022
+Visakhapatnam,Laterite Soil,502,Cotton,Kharif,7272,16289,2.24,2022
+Visakhapatnam,Laterite Soil,1186,Millets,Kharif,54877,76279,1.39,2022
+Visakhapatnam,Laterite Soil,621,Pulses,Rabi,69435,95820,1.38,2022
+Visakhapatnam,Laterite Soil,782,Tomato,Rabi,37819,1175792,31.09,2022
+Visakhapatnam,Laterite Soil,850,Chilli,Rabi,8698,33052,3.8,2022
+Visakhapatnam,Laterite Soil,957,Sugarcane,Annual,123796,10073280,81.37,2022
+Vizianagaram,Red Loam,526,Rice,Kharif,66094,334435,5.06,2022
+Vizianagaram,Red Loam,910,Maize,Rabi,27874,120973,4.34,2022
+Vizianagaram,Red Loam,1170,Groundnut,Kharif,20019,38436,1.92,2022
+Vizianagaram,Red Loam,906,Cotton,Kharif,14935,33603,2.25,2022
+Vizianagaram,Red Loam,531,Millets,Kharif,132096,180971,1.37,2022
+Vizianagaram,Red Loam,699,Pulses,Rabi,11029,15220,1.38,2022
+Vizianagaram,Red Loam,1076,Tomato,Rabi,70021,1524357,21.77,2022
+Vizianagaram,Red Loam,594,Chilli,Rabi,141684,430719,3.04,2022
+Vizianagaram,Red Loam,980,Sugarcane,Annual,47153,3605789,76.47,2022
+Srikakulam,Red Loam,1103,Rice,Kharif,16737,73308,4.38,2022
+Srikakulam,Red Loam,829,Maize,Rabi,89603,394253,4.4,2022
+Srikakulam,Red Loam,1141,Groundnut,Kharif,109872,239520,2.18,2022
+Srikakulam,Red Loam,661,Cotton,Kharif,34210,72525,2.12,2022
+Srikakulam,Red Loam,833,Millets,Kharif,115865,176114,1.52,2022
+Srikakulam,Red Loam,1176,Pulses,Rabi,84028,131923,1.57,2022
+Srikakulam,Red Loam,966,Tomato,Rabi,124480,2502048,20.1,2022
+Srikakulam,Red Loam,1097,Chilli,Rabi,76086,278474,3.66,2022
+Srikakulam,Red Loam,716,Sugarcane,Annual,29013,2072108,71.42,2022
+Kurnool,Black Soil,860,Rice,Kharif,149611,677737,4.53,2022
+Kurnool,Black Soil,697,Maize,Rabi,118375,486521,4.11,2022
+Kurnool,Black Soil,933,Groundnut,Kharif,81540,120679,1.48,2022
+Kurnool,Black Soil,962,Cotton,Kharif,104041,224728,2.16,2022
+Kurnool,Black Soil,626,Millets,Kharif,6172,8640,1.4,2022
+Kurnool,Black Soil,708,Pulses,Rabi,102970,113267,1.1,2022
+Kurnool,Black Soil,555,Tomato,Rabi,20537,603377,29.38,2022
+Kurnool,Black Soil,970,Chilli,Rabi,131201,429027,3.27,2022
+Kurnool,Black Soil,569,Sugarcane,Annual,11233,831017,73.98,2022
+Eluru,Clay Loam,1164,Rice,Kharif,139515,567826,4.07,2022
+Eluru,Clay Loam,604,Maize,Rabi,31082,126503,4.07,2022
+Eluru,Clay Loam,942,Groundnut,Kharif,60375,122561,2.03,2022
+Eluru,Clay Loam,824,Cotton,Kharif,55393,120756,2.18,2022
+Eluru,Clay Loam,981,Millets,Kharif,145609,222781,1.53,2022
+Eluru,Clay Loam,953,Pulses,Rabi,20713,25684,1.24,2022
+Eluru,Clay Loam,854,Tomato,Rabi,102070,2053648,20.12,2022
+Eluru,Clay Loam,808,Chilli,Rabi,9685,28280,2.92,2022
+Eluru,Clay Loam,1077,Sugarcane,Annual,57791,4344149,75.17,2022
+Bapatla,Sandy Loam,615,Rice,Kharif,40281,166763,4.14,2022
+Bapatla,Sandy Loam,550,Maize,Rabi,40098,160792,4.01,2022
+Bapatla,Sandy Loam,1005,Groundnut,Kharif,5535,10350,1.87,2022
+Bapatla,Sandy Loam,1030,Cotton,Kharif,50504,125249,2.48,2022
+Bapatla,Sandy Loam,745,Millets,Kharif,25927,41223,1.59,2022
+Bapatla,Sandy Loam,1025,Pulses,Rabi,119600,159068,1.33,2022
+Bapatla,Sandy Loam,1107,Tomato,Rabi,85465,2814362,32.93,2022
+Bapatla,Sandy Loam,1059,Chilli,Rabi,55786,167915,3.01,2022
+Bapatla,Sandy Loam,971,Sugarcane,Annual,36845,3416636,92.73,2022
+Anantapur,Red Soil,1035,Rice,Kharif,143438,583792,4.07,2023
+Anantapur,Red Soil,1037,Maize,Rabi,20033,77728,3.88,2023
+Anantapur,Red Soil,1029,Groundnut,Kharif,74377,139828,1.88,2023
+Anantapur,Red Soil,601,Cotton,Kharif,147534,320148,2.17,2023
+Anantapur,Red Soil,1031,Millets,Kharif,40478,49787,1.23,2023
+Anantapur,Red Soil,989,Pulses,Rabi,78004,97505,1.25,2023
+Anantapur,Red Soil,557,Tomato,Rabi,145458,3873546,26.63,2023
+Anantapur,Red Soil,888,Chilli,Rabi,93328,265984,2.85,2023
+Anantapur,Red Soil,1108,Sugarcane,Annual,60165,4831249,80.3,2023
+Chittoor,Red Soil,1087,Rice,Kharif,148969,674829,4.53,2023
+Chittoor,Red Soil,877,Maize,Rabi,139168,620689,4.46,2023
+Chittoor,Red Soil,646,Groundnut,Kharif,76145,141629,1.86,2023
+Chittoor,Red Soil,884,Cotton,Kharif,16155,41033,2.54,2023
+Chittoor,Red Soil,932,Millets,Kharif,82818,136649,1.65,2023
+Chittoor,Red Soil,1076,Pulses,Rabi,111589,151761,1.36,2023
+Chittoor,Red Soil,1089,Tomato,Rabi,67332,1781604,26.46,2023
+Chittoor,Red Soil,1084,Chilli,Rabi,36181,132422,3.66,2023
+Chittoor,Red Soil,1099,Sugarcane,Annual,60460,4260616,70.47,2023
+Guntur,Clay Loam,621,Rice,Kharif,83314,343253,4.12,2023
+Guntur,Clay Loam,983,Maize,Rabi,36786,149719,4.07,2023
+Guntur,Clay Loam,589,Groundnut,Kharif,9770,16218,1.66,2023
+Guntur,Clay Loam,716,Cotton,Kharif,139715,271047,1.94,2023
+Guntur,Clay Loam,937,Millets,Kharif,98703,127326,1.29,2023
+Guntur,Clay Loam,1094,Pulses,Rabi,102781,138754,1.35,2023
+Guntur,Clay Loam,989,Tomato,Rabi,118145,2835480,24.0,2023
+Guntur,Clay Loam,867,Chilli,Rabi,124406,441641,3.55,2023
+Guntur,Clay Loam,902,Sugarcane,Annual,121038,9338081,77.15,2023
+Krishna,Clay Loam,665,Rice,Kharif,59739,254488,4.26,2023
+Krishna,Clay Loam,697,Maize,Rabi,68539,298830,4.36,2023
+Krishna,Clay Loam,562,Groundnut,Kharif,19888,37986,1.91,2023
+Krishna,Clay Loam,1058,Cotton,Kharif,72447,157209,2.17,2023
+Krishna,Clay Loam,659,Millets,Kharif,41883,60311,1.44,2023
+Krishna,Clay Loam,880,Pulses,Rabi,88488,99106,1.12,2023
+Krishna,Clay Loam,557,Tomato,Rabi,54804,1257203,22.94,2023
+Krishna,Clay Loam,1100,Chilli,Rabi,121543,317227,2.61,2023
+Krishna,Clay Loam,580,Sugarcane,Annual,64476,5498513,85.28,2023
+East Godavari,Clay Soil,535,Rice,Kharif,81538,370997,4.55,2023
+East Godavari,Clay Soil,594,Maize,Rabi,81921,355537,4.34,2023
+East Godavari,Clay Soil,1108,Groundnut,Kharif,68569,101482,1.48,2023
+East Godavari,Clay Soil,558,Cotton,Kharif,45519,99231,2.18,2023
+East Godavari,Clay Soil,581,Millets,Kharif,35868,55954,1.56,2023
+East Godavari,Clay Soil,916,Pulses,Rabi,11991,18466,1.54,2023
+East Godavari,Clay Soil,838,Tomato,Rabi,116051,2787545,24.02,2023
+East Godavari,Clay Soil,584,Chilli,Rabi,49454,194354,3.93,2023
+East Godavari,Clay Soil,514,Sugarcane,Annual,109047,8877516,81.41,2023
+West Godavari,Clay Soil,853,Rice,Kharif,91330,472176,5.17,2023
+West Godavari,Clay Soil,727,Maize,Rabi,24098,115188,4.78,2023
+West Godavari,Clay Soil,754,Groundnut,Kharif,130168,279861,2.15,2023
+West Godavari,Clay Soil,1151,Cotton,Kharif,144742,380671,2.63,2023
+West Godavari,Clay Soil,766,Millets,Kharif,57076,94746,1.66,2023
+West Godavari,Clay Soil,771,Pulses,Rabi,21972,26586,1.21,2023
+West Godavari,Clay Soil,920,Tomato,Rabi,14980,380641,25.41,2023
+West Godavari,Clay Soil,1161,Chilli,Rabi,144893,407149,2.81,2023
+West Godavari,Clay Soil,533,Sugarcane,Annual,91090,7425656,81.52,2023
+Prakasam,Red Soil,672,Rice,Kharif,120894,588753,4.87,2023
+Prakasam,Red Soil,749,Maize,Rabi,43426,211484,4.87,2023
+Prakasam,Red Soil,1133,Groundnut,Kharif,49230,84183,1.71,2023
+Prakasam,Red Soil,502,Cotton,Kharif,121934,298738,2.45,2023
+Prakasam,Red Soil,988,Millets,Kharif,33219,41191,1.24,2023
+Prakasam,Red Soil,791,Pulses,Rabi,148575,218405,1.47,2023
+Prakasam,Red Soil,510,Tomato,Rabi,118197,2881642,24.38,2023
+Prakasam,Red Soil,1090,Chilli,Rabi,119394,433400,3.63,2023
+Prakasam,Red Soil,916,Sugarcane,Annual,78939,6259862,79.3,2023
+Kadapa,Red Soil,1084,Rice,Kharif,131635,662124,5.03,2023
+Kadapa,Red Soil,941,Maize,Rabi,61279,246341,4.02,2023
+Kadapa,Red Soil,655,Groundnut,Kharif,79249,152950,1.93,2023
+Kadapa,Red Soil,579,Cotton,Kharif,40596,110421,2.72,2023
+Kadapa,Red Soil,570,Millets,Kharif,137878,221983,1.61,2023
+Kadapa,Red Soil,738,Pulses,Rabi,109513,168650,1.54,2023
+Kadapa,Red Soil,1130,Tomato,Rabi,145779,3672173,25.19,2023
+Kadapa,Red Soil,813,Chilli,Rabi,45925,131345,2.86,2023
+Kadapa,Red Soil,1199,Sugarcane,Annual,108030,8532209,78.98,2023
+Nellore,Sandy Soil,632,Rice,Kharif,9348,44122,4.72,2023
+Nellore,Sandy Soil,581,Maize,Rabi,5208,20988,4.03,2023
+Nellore,Sandy Soil,1076,Groundnut,Kharif,149742,271033,1.81,2023
+Nellore,Sandy Soil,842,Cotton,Kharif,101816,257594,2.53,2023
+Nellore,Sandy Soil,826,Millets,Kharif,108974,141666,1.3,2023
+Nellore,Sandy Soil,741,Pulses,Rabi,76019,115548,1.52,2023
+Nellore,Sandy Soil,785,Tomato,Rabi,24446,560057,22.91,2023
+Nellore,Sandy Soil,788,Chilli,Rabi,141596,395052,2.79,2023
+Nellore,Sandy Soil,887,Sugarcane,Annual,52058,4000657,76.85,2023
+Visakhapatnam,Laterite Soil,1100,Rice,Kharif,22967,92097,4.01,2023
+Visakhapatnam,Laterite Soil,994,Maize,Rabi,71183,301104,4.23,2023
+Visakhapatnam,Laterite Soil,744,Groundnut,Kharif,104399,198358,1.9,2023
+Visakhapatnam,Laterite Soil,734,Cotton,Kharif,72956,158314,2.17,2023
+Visakhapatnam,Laterite Soil,606,Millets,Kharif,31913,57124,1.79,2023
+Visakhapatnam,Laterite Soil,764,Pulses,Rabi,75461,84516,1.12,2023
+Visakhapatnam,Laterite Soil,763,Tomato,Rabi,41780,885318,21.19,2023
+Visakhapatnam,Laterite Soil,1095,Chilli,Rabi,11917,39445,3.31,2023
+Visakhapatnam,Laterite Soil,882,Sugarcane,Annual,14574,1349552,92.6,2023
+Vizianagaram,Red Loam,511,Rice,Kharif,128047,533955,4.17,2023
+Vizianagaram,Red Loam,842,Maize,Rabi,61201,265000,4.33,2023
+Vizianagaram,Red Loam,838,Groundnut,Kharif,147899,260302,1.76,2023
+Vizianagaram,Red Loam,649,Cotton,Kharif,52172,110082,2.11,2023
+Vizianagaram,Red Loam,907,Millets,Kharif,109867,164800,1.5,2023
+Vizianagaram,Red Loam,604,Pulses,Rabi,108770,129436,1.19,2023
+Vizianagaram,Red Loam,1010,Tomato,Rabi,57818,1439668,24.9,2023
+Vizianagaram,Red Loam,648,Chilli,Rabi,149601,490691,3.28,2023
+Vizianagaram,Red Loam,1133,Sugarcane,Annual,37479,2771946,73.96,2023
+Srikakulam,Red Loam,538,Rice,Kharif,66713,279527,4.19,2023
+Srikakulam,Red Loam,501,Maize,Rabi,33916,135324,3.99,2023
+Srikakulam,Red Loam,777,Groundnut,Kharif,12933,18364,1.42,2023
+Srikakulam,Red Loam,605,Cotton,Kharif,137989,332553,2.41,2023
+Srikakulam,Red Loam,1057,Millets,Kharif,41720,62580,1.5,2023
+Srikakulam,Red Loam,1164,Pulses,Rabi,5035,7049,1.4,2023
+Srikakulam,Red Loam,608,Tomato,Rabi,8639,247161,28.61,2023
+Srikakulam,Red Loam,1182,Chilli,Rabi,106466,348143,3.27,2023
+Srikakulam,Red Loam,852,Sugarcane,Annual,10873,976395,89.8,2023
+Kurnool,Black Soil,1127,Rice,Kharif,5400,25488,4.72,2023
+Kurnool,Black Soil,1189,Maize,Rabi,28799,124411,4.32,2023
+Kurnool,Black Soil,869,Groundnut,Kharif,110931,210768,1.9,2023
+Kurnool,Black Soil,1192,Cotton,Kharif,47605,97590,2.05,2023
+Kurnool,Black Soil,615,Millets,Kharif,97505,125781,1.29,2023
+Kurnool,Black Soil,1006,Pulses,Rabi,56840,67639,1.19,2023
+Kurnool,Black Soil,776,Tomato,Rabi,118974,2704279,22.73,2023
+Kurnool,Black Soil,1013,Chilli,Rabi,61024,242265,3.97,2023
+Kurnool,Black Soil,687,Sugarcane,Annual,26292,2161991,82.23,2023
+Eluru,Clay Loam,871,Rice,Kharif,106208,550157,5.18,2023
+Eluru,Clay Loam,979,Maize,Rabi,93660,397118,4.24,2023
+Eluru,Clay Loam,844,Groundnut,Kharif,77518,125579,1.62,2023
+Eluru,Clay Loam,907,Cotton,Kharif,49000,105840,2.16,2023
+Eluru,Clay Loam,804,Millets,Kharif,94228,135688,1.44,2023
+Eluru,Clay Loam,1197,Pulses,Rabi,128777,191877,1.49,2023
+Eluru,Clay Loam,588,Tomato,Rabi,11455,398519,34.79,2023
+Eluru,Clay Loam,1023,Chilli,Rabi,31655,99713,3.15,2023
+Eluru,Clay Loam,526,Sugarcane,Annual,139734,10794451,77.25,2023
+Bapatla,Sandy Loam,662,Rice,Kharif,100279,457272,4.56,2023
+Bapatla,Sandy Loam,871,Maize,Rabi,21592,93277,4.32,2023
+Bapatla,Sandy Loam,756,Groundnut,Kharif,119330,187348,1.57,2023
+Bapatla,Sandy Loam,508,Cotton,Kharif,95859,231020,2.41,2023
+Bapatla,Sandy Loam,738,Millets,Kharif,94434,145428,1.54,2023
+Bapatla,Sandy Loam,1102,Pulses,Rabi,106154,140123,1.32,2023
+Bapatla,Sandy Loam,942,Tomato,Rabi,86534,2930041,33.86,2023
+Bapatla,Sandy Loam,843,Chilli,Rabi,68685,238336,3.47,2023
+Bapatla,Sandy Loam,526,Sugarcane,Annual,78470,7408352,94.41,2023
+Anantapur,Red Soil,820,Rice,Kharif,29022,131469,4.53,2024
+Anantapur,Red Soil,1144,Maize,Rabi,70625,295918,4.19,2024
+Anantapur,Red Soil,1188,Groundnut,Kharif,22322,38393,1.72,2024
+Anantapur,Red Soil,887,Cotton,Kharif,63967,127294,1.99,2024
+Anantapur,Red Soil,717,Millets,Kharif,144726,183802,1.27,2024
+Anantapur,Red Soil,977,Pulses,Rabi,120631,143550,1.19,2024
+Anantapur,Red Soil,1121,Tomato,Rabi,49325,1626738,32.98,2024
+Anantapur,Red Soil,794,Chilli,Rabi,43601,113798,2.61,2024
+Anantapur,Red Soil,916,Sugarcane,Annual,10986,883054,80.38,2024
+Chittoor,Red Soil,646,Rice,Kharif,133973,596179,4.45,2024
+Chittoor,Red Soil,821,Maize,Rabi,132913,610070,4.59,2024
+Chittoor,Red Soil,831,Groundnut,Kharif,36957,70218,1.9,2024
+Chittoor,Red Soil,1032,Cotton,Kharif,75317,156659,2.08,2024
+Chittoor,Red Soil,717,Millets,Kharif,66261,117281,1.77,2024
+Chittoor,Red Soil,667,Pulses,Rabi,56469,84138,1.49,2024
+Chittoor,Red Soil,577,Tomato,Rabi,86274,2193085,25.42,2024
+Chittoor,Red Soil,654,Chilli,Rabi,17731,61881,3.49,2024
+Chittoor,Red Soil,769,Sugarcane,Annual,23945,1821496,76.07,2024
+Guntur,Clay Loam,1165,Rice,Kharif,29752,128231,4.31,2024
+Guntur,Clay Loam,596,Maize,Rabi,127690,523528,4.1,2024
+Guntur,Clay Loam,597,Groundnut,Kharif,19533,29104,1.49,2024
+Guntur,Clay Loam,718,Cotton,Kharif,25814,58597,2.27,2024
+Guntur,Clay Loam,679,Millets,Kharif,73073,125685,1.72,2024
+Guntur,Clay Loam,1087,Pulses,Rabi,46055,48357,1.05,2024
+Guntur,Clay Loam,538,Tomato,Rabi,84440,2611729,30.93,2024
+Guntur,Clay Loam,707,Chilli,Rabi,95145,287337,3.02,2024
+Guntur,Clay Loam,1100,Sugarcane,Annual,116851,9951031,85.16,2024
+Krishna,Clay Loam,818,Rice,Kharif,84643,391050,4.62,2024
+Krishna,Clay Loam,735,Maize,Rabi,5545,26449,4.77,2024
+Krishna,Clay Loam,1041,Groundnut,Kharif,57986,109013,1.88,2024
+Krishna,Clay Loam,873,Cotton,Kharif,40137,99138,2.47,2024
+Krishna,Clay Loam,511,Millets,Kharif,19739,30595,1.55,2024
+Krishna,Clay Loam,1108,Pulses,Rabi,51126,58283,1.14,2024
+Krishna,Clay Loam,1166,Tomato,Rabi,31170,931047,29.87,2024
+Krishna,Clay Loam,500,Chilli,Rabi,42270,157667,3.73,2024
+Krishna,Clay Loam,586,Sugarcane,Annual,30699,2866979,93.39,2024
+East Godavari,Clay Soil,707,Rice,Kharif,71306,312320,4.38,2024
+East Godavari,Clay Soil,1158,Maize,Rabi,31229,146151,4.68,2024
+East Godavari,Clay Soil,1147,Groundnut,Kharif,38133,74740,1.96,2024
+East Godavari,Clay Soil,857,Cotton,Kharif,134843,372166,2.76,2024
+East Godavari,Clay Soil,1080,Millets,Kharif,30246,40832,1.35,2024
+East Godavari,Clay Soil,816,Pulses,Rabi,84277,100289,1.19,2024
+East Godavari,Clay Soil,970,Tomato,Rabi,68943,1752531,25.42,2024
+East Godavari,Clay Soil,895,Chilli,Rabi,136672,442817,3.24,2024
+East Godavari,Clay Soil,1172,Sugarcane,Annual,128514,10540718,82.02,2024
+West Godavari,Clay Soil,518,Rice,Kharif,125671,570546,4.54,2024
+West Godavari,Clay Soil,1007,Maize,Rabi,119601,464051,3.88,2024
+West Godavari,Clay Soil,757,Groundnut,Kharif,82826,175591,2.12,2024
+West Godavari,Clay Soil,802,Cotton,Kharif,97256,263563,2.71,2024
+West Godavari,Clay Soil,936,Millets,Kharif,146654,186250,1.27,2024
+West Godavari,Clay Soil,661,Pulses,Rabi,20954,27449,1.31,2024
+West Godavari,Clay Soil,507,Tomato,Rabi,58051,1874466,32.29,2024
+West Godavari,Clay Soil,1059,Chilli,Rabi,107300,376623,3.51,2024
+West Godavari,Clay Soil,790,Sugarcane,Annual,66096,5662444,85.67,2024
+Prakasam,Red Soil,739,Rice,Kharif,78088,334997,4.29,2024
+Prakasam,Red Soil,559,Maize,Rabi,32636,156000,4.78,2024
+Prakasam,Red Soil,578,Groundnut,Kharif,68563,118613,1.73,2024
+Prakasam,Red Soil,637,Cotton,Kharif,70703,164030,2.32,2024
+Prakasam,Red Soil,640,Millets,Kharif,118724,191145,1.61,2024
+Prakasam,Red Soil,968,Pulses,Rabi,69867,76155,1.09,2024
+Prakasam,Red Soil,519,Tomato,Rabi,133808,4426368,33.08,2024
+Prakasam,Red Soil,932,Chilli,Rabi,15904,51051,3.21,2024
+Prakasam,Red Soil,808,Sugarcane,Annual,62836,4923200,78.35,2024
+Kadapa,Red Soil,1091,Rice,Kharif,83855,350513,4.18,2024
+Kadapa,Red Soil,1109,Maize,Rabi,36274,170125,4.69,2024
+Kadapa,Red Soil,1053,Groundnut,Kharif,75575,123942,1.64,2024
+Kadapa,Red Soil,1108,Cotton,Kharif,70398,159803,2.27,2024
+Kadapa,Red Soil,1183,Millets,Kharif,75101,98382,1.31,2024
+Kadapa,Red Soil,1084,Pulses,Rabi,122310,160226,1.31,2024
+Kadapa,Red Soil,542,Tomato,Rabi,82129,1695142,20.64,2024
+Kadapa,Red Soil,574,Chilli,Rabi,81212,268811,3.31,2024
+Kadapa,Red Soil,885,Sugarcane,Annual,41978,3239862,77.18,2024
+Nellore,Sandy Soil,838,Rice,Kharif,14785,66680,4.51,2024
+Nellore,Sandy Soil,631,Maize,Rabi,112669,541937,4.81,2024
+Nellore,Sandy Soil,1199,Groundnut,Kharif,100808,161292,1.6,2024
+Nellore,Sandy Soil,591,Cotton,Kharif,46753,97246,2.08,2024
+Nellore,Sandy Soil,1054,Millets,Kharif,142468,210852,1.48,2024
+Nellore,Sandy Soil,720,Pulses,Rabi,64290,96435,1.5,2024
+Nellore,Sandy Soil,974,Tomato,Rabi,141838,3414040,24.07,2024
+Nellore,Sandy Soil,909,Chilli,Rabi,139147,544064,3.91,2024
+Nellore,Sandy Soil,593,Sugarcane,Annual,55952,4814669,86.05,2024
+Visakhapatnam,Laterite Soil,1024,Rice,Kharif,33541,134834,4.02,2024
+Visakhapatnam,Laterite Soil,886,Maize,Rabi,60949,276098,4.53,2024
+Visakhapatnam,Laterite Soil,821,Groundnut,Kharif,47112,75379,1.6,2024
+Visakhapatnam,Laterite Soil,1056,Cotton,Kharif,31861,59261,1.86,2024
+Visakhapatnam,Laterite Soil,917,Millets,Kharif,107507,145134,1.35,2024
+Visakhapatnam,Laterite Soil,1195,Pulses,Rabi,110940,122034,1.1,2024
+Visakhapatnam,Laterite Soil,942,Tomato,Rabi,29748,972164,32.68,2024
+Visakhapatnam,Laterite Soil,552,Chilli,Rabi,147508,386470,2.62,2024
+Visakhapatnam,Laterite Soil,899,Sugarcane,Annual,141696,10002320,70.59,2024
+Vizianagaram,Red Loam,1000,Rice,Kharif,110546,565995,5.12,2024
+Vizianagaram,Red Loam,549,Maize,Rabi,7668,35656,4.65,2024
+Vizianagaram,Red Loam,1080,Groundnut,Kharif,110526,240946,2.18,2024
+Vizianagaram,Red Loam,509,Cotton,Kharif,114261,307362,2.69,2024
+Vizianagaram,Red Loam,1115,Millets,Kharif,121429,162714,1.34,2024
+Vizianagaram,Red Loam,1012,Pulses,Rabi,22469,22469,1.0,2024
+Vizianagaram,Red Loam,538,Tomato,Rabi,42928,1462127,34.06,2024
+Vizianagaram,Red Loam,635,Chilli,Rabi,126369,443555,3.51,2024
+Vizianagaram,Red Loam,740,Sugarcane,Annual,130238,10032233,77.03,2024
+Srikakulam,Red Loam,604,Rice,Kharif,149975,677886,4.52,2024
+Srikakulam,Red Loam,616,Maize,Rabi,142766,671000,4.7,2024
+Srikakulam,Red Loam,1016,Groundnut,Kharif,18642,28895,1.55,2024
+Srikakulam,Red Loam,567,Cotton,Kharif,30925,58139,1.88,2024
+Srikakulam,Red Loam,889,Millets,Kharif,85943,124617,1.45,2024
+Srikakulam,Red Loam,1022,Pulses,Rabi,129422,161777,1.25,2024
+Srikakulam,Red Loam,1014,Tomato,Rabi,79423,2104709,26.5,2024
+Srikakulam,Red Loam,513,Chilli,Rabi,128702,325616,2.53,2024
+Srikakulam,Red Loam,569,Sugarcane,Annual,48033,3838317,79.91,2024
+Kurnool,Black Soil,1113,Rice,Kharif,71574,316357,4.42,2024
+Kurnool,Black Soil,830,Maize,Rabi,124255,606364,4.88,2024
+Kurnool,Black Soil,959,Groundnut,Kharif,101163,172988,1.71,2024
+Kurnool,Black Soil,590,Cotton,Kharif,8012,15222,1.9,2024
+Kurnool,Black Soil,824,Millets,Kharif,87659,114833,1.31,2024
+Kurnool,Black Soil,930,Pulses,Rabi,67819,69853,1.03,2024
+Kurnool,Black Soil,770,Tomato,Rabi,80017,2420514,30.25,2024
+Kurnool,Black Soil,844,Chilli,Rabi,76774,274083,3.57,2024
+Kurnool,Black Soil,519,Sugarcane,Annual,78512,6677445,85.05,2024
+Eluru,Clay Loam,640,Rice,Kharif,62311,307816,4.94,2024
+Eluru,Clay Loam,1148,Maize,Rabi,66430,284984,4.29,2024
+Eluru,Clay Loam,981,Groundnut,Kharif,101547,200047,1.97,2024
+Eluru,Clay Loam,1000,Cotton,Kharif,140190,302810,2.16,2024
+Eluru,Clay Loam,991,Millets,Kharif,46578,69867,1.5,2024
+Eluru,Clay Loam,863,Pulses,Rabi,115980,132217,1.14,2024
+Eluru,Clay Loam,1036,Tomato,Rabi,51411,1667258,32.43,2024
+Eluru,Clay Loam,647,Chilli,Rabi,80460,239770,2.98,2024
+Eluru,Clay Loam,743,Sugarcane,Annual,42841,3620921,84.52,2024
+Bapatla,Sandy Loam,1136,Rice,Kharif,135909,619745,4.56,2024
+Bapatla,Sandy Loam,691,Maize,Rabi,113441,435613,3.84,2024
+Bapatla,Sandy Loam,1152,Groundnut,Kharif,147262,223838,1.52,2024
+Bapatla,Sandy Loam,1083,Cotton,Kharif,65205,167576,2.57,2024
+Bapatla,Sandy Loam,1058,Millets,Kharif,149770,221659,1.48,2024
+Bapatla,Sandy Loam,514,Pulses,Rabi,36782,41931,1.14,2024
+Bapatla,Sandy Loam,1181,Tomato,Rabi,13618,389610,28.61,2024
+Bapatla,Sandy Loam,614,Chilli,Rabi,123947,361925,2.92,2024
+Bapatla,Sandy Loam,1115,Sugarcane,Annual,129783,12312513,94.87,2024
